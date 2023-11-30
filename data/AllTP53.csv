@@ -1,0 +1,2278 @@
+Cancer Type Detailed,Variant Type,Chromosome,Start Pos,End Pos,Ref,Var,Allele Freq (T),Gene Name,Ref Start
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.12,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578190,7578190.0,T,C,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.44,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.69,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,C,0.33,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578534,7578534.0,C,G,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.03,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577121,7577121.0,G,A,0.03,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577538,7577538.0,C,T,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.41,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577538,7577538.0,C,T,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.26,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577538,7577538.0,C,T,0.34,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577538,7577538.0,C,T,0.28,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577538,7577538.0,C,T,0.67,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.06,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577538,7577538.0,C,T,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578507,7578507.0,G,C,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.18,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7578394,7578394.0,T,C,0.7,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578394,7578394.0,T,C,0.94,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7578394,7578394.0,T,C,0.91,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577100,7577100.0,T,C,0.74,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578265,7578265.0,A,C,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578272,7578272.0,G,A,0.14,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7578272,7578272.0,G,A,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,T,0.19,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577548,7577548.0,C,T,0.13,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.32,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577539,7577539.0,G,A,0.48,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577539,7577539.0,G,A,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.53,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577539,7577539.0,G,A,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.6,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577108,7577108.0,C,A,0.23,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577108,7577108.0,C,A,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577108,7577108.0,C,A,0.24,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577559,7577559.0,G,A,0.34,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577559,7577559.0,G,A,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,A,0.47,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577099,7577099.0,C,G,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,G,0.43,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577099,7577099.0,C,G,0.15,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577085,7577085.0,C,T,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,0.65,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577085,7577085.0,C,T,0.59,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577085,7577085.0,C,T,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,0.53,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577085,7577085.0,C,T,0.41,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577085,7577085.0,C,T,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.59,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7578406,7578406.0,C,T,0.54,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578406,7578406.0,C,T,0.45,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.88,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7578406,7578406.0,C,T,0.83,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578406,7578406.0,C,T,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.57,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578406,7578406.0,C,T,0.39,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577127,7577127.0,C,T,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577127,7577127.0,C,T,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578403,7578403.0,C,A,0.81,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,G,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,0.54,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577094,7577094.0,G,A,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,A,0.46,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577547,7577547.0,C,A,0.22,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577547,7577547.0,C,A,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,T,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,T,0.29,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577099,7577099.0,C,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,T,0.14,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577099,7577099.0,C,T,0.35,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577106,7577106.0,G,T,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578508,7578508.0,C,T,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577124,7577124.0,C,T,0.09,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577124,7577124.0,C,T,0.8,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577124,7577124.0,C,T,0.04,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,A,0.11,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577120,7577120.0,C,A,0.63,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577120,7577120.0,C,A,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,0.65,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.61,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577120,7577120.0,C,T,0.31,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577120,7577120.0,C,T,0.52,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577120,7577120.0,C,T,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,T,0.67,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,T,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,T,0.67,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,T,0.44,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,T,0.36,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577547,7577547.0,C,T,0.88,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,C,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,C,0.59,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577559,7577559.0,G,C,0.37,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577559,7577559.0,G,C,0.55,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577568,7577568.0,C,T,0.13,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577568,7577568.0,C,T,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,T,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,T,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,C,0.37,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7578268,7578268.0,A,G,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,G,0.77,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578442,7578442.0,T,C,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578395,7578395.0,G,A,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578395,7578395.0,G,A,0.7,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577543,7577543.0,C,T,0.07,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577114,7577114.0,C,T,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,C,0.26,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577566,7577566.0,T,C,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,C,0.09,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577566,7577566.0,T,C,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577118,7577118.0,C,G,0.04,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577118,7577118.0,C,G,0.36,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577570,7577570.0,C,A,0.4,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577570,7577570.0,C,A,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,A,0.79,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578407,7578407.0,G,C,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577117,7577117.0,A,C,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578266,7578266.0,T,A,0.3,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577097,7577097.0,C,G,0.04,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.13,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.83,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.65,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577574,7577574.0,T,C,0.72,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577574,7577574.0,T,C,0.38,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577551,7577551.0,C,G,0.08,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577559,7577559.0,G,T,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577550,7577550.0,C,A,0.46,TP53,7571720
+"Breast Invasive Carcinosarcoma, NOS",SNP,17,7577534,7577534.0,C,G,0.03,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577081,7577081.0,T,A,0.2,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578443,7578443.0,A,G,0.35,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7578443,7578443.0,A,G,0.8,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577575,7577575.0,A,C,0.45,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577115,7577115.0,A,G,0.76,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7578535,7578535.0,T,C,0.14,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577120,7577120.0,C,G,0.06,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578395,7578395.0,G,C,0.65,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578404,7578404.0,A,G,0.06,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578404,7578404.0,A,G,0.24,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578404,7578404.0,A,G,0.74,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577127,7577127.0,C,G,0.69,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577581,7577581.0,A,G,0.9,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578532,7578532.0,A,C,0.05,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577560,7577560.0,A,C,0.67,TP53,7571720
+"Breast Invasive Cancer, NOS",DNP,17,7577533,7577534.0,GC,AA,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577545,7577545.0,T,G,0.1,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577545,7577545.0,T,G,0.05,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577117,7577117.0,A,G,0.45,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578534,7578534.0,C,G,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578534,7578534.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578534,7578534.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578534,7578534.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578534,7578534.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578534,7578534.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574017,7574017.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577580,7577580.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577580,7577580.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577580,7577580.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577580,7577580.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577580,7577580.0,T,C,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577580,7577580.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574018,7574018.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574018,7574018.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574018,7574018.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574018,7574018.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Mixed Mucinous Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577081,7577081.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577081,7577081.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578403,7578403.0,C,T,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577100,7577100.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578272,7578272.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578272,7578272.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,T,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577548,7577548.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,T,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577548,7577548.0,C,T,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577548,7577548.0,C,T,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577108,7577108.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577108,7577108.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577559,7577559.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577559,7577559.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,G,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577099,7577099.0,C,G,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,,TP53,7571720
+Breast,SNP,17,7577556,7577556.0,C,A,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578406,7578406.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577127,7577127.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577127,7577127.0,C,T,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578403,7578403.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,T,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577099,7577099.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578525,7578525.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578525,7578525.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578525,7578525.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578393,7578393.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578508,7578508.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578508,7578508.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578508,7578508.0,C,T,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578508,7578508.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577124,7577124.0,C,T,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577124,7577124.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577120,7577120.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578265,7578265.0,A,G,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578265,7578265.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578271,7578271.0,T,C,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578271,7578271.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578527,7578527.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578536,7578536.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578536,7578536.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578536,7578536.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577568,7577568.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577568,7577568.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577568,7577568.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,T,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577105,7577105.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577105,7577105.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577082,7577082.0,C,G,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578268,7578268.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578442,7578442.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578442,7578442.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578442,7578442.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578442,7578442.0,T,C,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578442,7578442.0,T,C,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578442,7578442.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578442,7578442.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578509,7578509.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578509,7578509.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578395,7578395.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577570,7577570.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578526,7578526.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578526,7578526.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577565,7577565.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577114,7577114.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577532,7577532.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577532,7577532.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577532,7577532.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578396,7578396.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577105,7577105.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577105,7577105.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577105,7577105.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577105,7577105.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577105,7577105.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577118,7577118.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577106,7577106.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578412,7578412.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577535,7577535.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578407,7578407.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578407,7578407.0,G,C,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577114,7577114.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577117,7577117.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578266,7578266.0,T,A,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578528,7578528.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577556,7577556.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577556,7577556.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577556,7577556.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577556,7577556.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577545,7577545.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577545,7577545.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577551,7577551.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577544,7577544.0,A,C,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577544,7577544.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577097,7577097.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577097,7577097.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577534,7577534.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577534,7577534.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,A,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578403,7578403.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577098,7577098.0,T,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578523,7578523.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578530,7578530.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574017,7574017.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577569,7577569.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577569,7577569.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577123,7577123.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577551,7577551.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577551,7577551.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578535,7578535.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577536,7577536.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578395,7578395.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578530,7578530.0,A,G,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578530,7578530.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577581,7577581.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577529,7577529.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578389,7578389.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577556,7577556.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577556,7577556.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578529,7578529.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578529,7578529.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578529,7578529.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577097,7577097.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577581,7577581.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577581,7577581.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577568,7577568.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577557,7577557.0,A,G,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577557,7577557.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578404,7578404.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577569,7577569.0,A,C,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577567,7577567.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578281,7578281.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577581,7577581.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578397,7578397.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578397,7578397.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578397,7578397.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577083,7577083.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577545,7577545.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577564,7577564.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577124,7577124.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577565,7577565.0,T,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578526,7578526.0,C,T,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578526,7578526.0,C,T,0.13,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578526,7578526.0,C,T,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578526,7578526.0,C,T,0.19,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578526,7578526.0,C,T,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.52,TP53,7571720
+Breast,SNP,17,7577121,7577121.0,G,A,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.44,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574018,7574018.0,G,A,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574018,7574018.0,G,A,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574018,7574018.0,G,A,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574018,7574018.0,G,A,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574018,7574018.0,G,A,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574018,7574018.0,G,A,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.04,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7577538,7577538.0,C,T,0.41,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577538,7577538.0,C,T,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.44,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.1,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.44,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.34,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577538,7577538.0,C,T,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,T,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578507,7578507.0,G,C,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578403,7578403.0,C,T,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578403,7578403.0,C,T,0.05,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577100,7577100.0,T,C,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577100,7577100.0,T,C,0.74,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578272,7578272.0,G,A,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578272,7578272.0,G,A,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578272,7578272.0,G,A,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,T,0.19,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,T,0.21,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577548,7577548.0,C,T,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,T,0.06,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577548,7577548.0,C,T,0.25,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,T,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.88,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.25,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577539,7577539.0,G,A,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.66,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.53,TP53,7571720
+Breast,SNP,17,7577108,7577108.0,C,A,0.23,TP53,7571720
+Breast,SNP,17,7577108,7577108.0,C,A,0.18,TP53,7571720
+Breast,SNP,17,7577108,7577108.0,C,A,0.24,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577108,7577108.0,C,A,0.09,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577559,7577559.0,G,A,0.34,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577559,7577559.0,G,A,0.52,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577559,7577559.0,G,A,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,A,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,A,0.34,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577099,7577099.0,C,G,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,G,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,G,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,G,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,0.06,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577085,7577085.0,C,T,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,0.65,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577085,7577085.0,C,T,0.37,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577085,7577085.0,C,T,0.59,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577556,7577556.0,C,A,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.29,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578406,7578406.0,C,T,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.05,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578406,7578406.0,C,T,0.16,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7578406,7578406.0,C,T,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.73,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.59,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578406,7578406.0,C,T,0.45,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.88,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.02,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.59,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578403,7578403.0,C,A,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578403,7578403.0,C,A,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,G,0.7,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577094,7577094.0,G,A,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,A,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,A,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,A,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,T,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,T,0.29,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577099,7577099.0,C,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578525,7578525.0,G,C,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578525,7578525.0,G,C,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578525,7578525.0,G,C,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,T,0.67,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577106,7577106.0,G,T,0.2,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577106,7577106.0,G,T,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578393,7578393.0,A,T,0.77,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578393,7578393.0,A,T,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578393,7578393.0,A,T,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578508,7578508.0,C,T,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578508,7578508.0,C,T,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578508,7578508.0,C,T,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577124,7577124.0,C,T,0.56,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577124,7577124.0,C,T,0.32,TP53,7571720
+Breast,SNP,17,7577124,7577124.0,C,T,0.83,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577124,7577124.0,C,T,0.09,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577124,7577124.0,C,T,0.8,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,A,0.11,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577120,7577120.0,C,A,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.69,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.79,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7578265,7578265.0,A,G,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578532,7578532.0,A,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.39,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577120,7577120.0,C,T,0.03,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,T,0.67,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,T,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,T,0.88,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,C,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577559,7577559.0,G,C,0.59,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577568,7577568.0,C,T,0.13,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577568,7577568.0,C,T,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,T,0.62,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,T,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,T,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,C,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,G,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,G,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,G,0.77,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578442,7578442.0,T,C,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578442,7578442.0,T,C,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578442,7578442.0,T,C,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578395,7578395.0,G,A,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578395,7578395.0,G,A,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578395,7578395.0,G,A,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,A,0.44,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,A,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,T,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,T,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,T,0.26,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577543,7577543.0,C,T,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577565,7577565.0,T,C,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,C,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,C,0.65,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577566,7577566.0,T,C,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577105,7577105.0,G,C,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577118,7577118.0,C,G,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577118,7577118.0,C,G,0.04,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577530,7577530.0,T,A,0.04,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,A,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,A,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,A,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,A,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,A,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,A,0.79,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,A,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,T,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,T,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577535,7577535.0,C,A,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577536,7577536.0,T,A,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578407,7578407.0,G,C,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577117,7577117.0,A,C,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577117,7577117.0,A,C,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577117,7577117.0,A,C,0.62,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577117,7577117.0,A,C,0.05,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577556,7577556.0,C,T,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577556,7577556.0,C,T,0.02,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577556,7577556.0,C,T,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577545,7577545.0,T,C,0.5,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577551,7577551.0,C,T,0.04,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577538,7577538.0,C,A,0.3,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577097,7577097.0,C,G,0.02,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.13,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577574,7577574.0,T,C,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577534,7577534.0,C,A,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577534,7577534.0,C,A,0.05,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577534,7577534.0,C,A,0.82,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,G,0.65,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577550,7577550.0,C,A,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577569,7577569.0,A,T,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577534,7577534.0,C,G,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578530,7578530.0,A,C,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578530,7578530.0,A,C,0.05,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577081,7577081.0,T,A,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574017,7574017.0,C,A,0.19,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574017,7574017.0,C,A,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577569,7577569.0,A,G,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577115,7577115.0,A,G,0.76,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577115,7577115.0,A,G,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578402,7578402.0,G,C,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578402,7578402.0,G,C,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577551,7577551.0,C,A,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,A,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,A,0.68,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,A,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,A,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578535,7578535.0,T,C,0.08,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7578535,7578535.0,T,C,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577536,7577536.0,T,C,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578404,7578404.0,A,G,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578529,7578529.0,A,C,0.05,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577097,7577097.0,C,T,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577127,7577127.0,C,G,0.69,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577124,7577124.0,C,A,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577581,7577581.0,A,G,0.9,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578532,7578532.0,A,C,0.05,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577545,7577545.0,T,G,0.1,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577545,7577545.0,T,G,0.05,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577117,7577117.0,A,G,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577117,7577117.0,A,G,0.45,TP53,7571720
+"Breast Invasive Cancer, NOS",DNP,17,7577558,7577559.0,GG,AA,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577093,7577093.0,C,G,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,A,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578534,7578534.0,C,G,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578534,7578534.0,C,G,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578526,7578526.0,C,T,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577580,7577580.0,T,C,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577580,7577580.0,T,C,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.91,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.44,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.19,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,A,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578394,7578394.0,T,C,0.66,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578403,7578403.0,C,T,0.67,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578272,7578272.0,G,A,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.73,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.38,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577539,7577539.0,G,A,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577539,7577539.0,G,A,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,G,0.66,TP53,7571720
+Paget Disease of the Nipple,SNP,17,7577085,7577085.0,C,T,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,0.78,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,T,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.73,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578406,7578406.0,C,T,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577568,7577568.0,C,A,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577568,7577568.0,C,A,0.43,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7578403,7578403.0,C,A,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578403,7578403.0,C,A,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578403,7578403.0,C,A,0.8,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578403,7578403.0,C,A,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577099,7577099.0,C,T,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578525,7578525.0,G,C,0.69,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,T,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578393,7578393.0,A,T,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578508,7578508.0,C,T,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578508,7578508.0,C,T,0.68,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578508,7578508.0,C,T,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577124,7577124.0,C,T,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577124,7577124.0,C,T,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,A,0.45,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7577097,7577097.0,C,A,0.94,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.72,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.69,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578265,7578265.0,A,G,0.81,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578271,7578271.0,T,C,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,0.64,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7578271,7578271.0,T,C,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,0.8,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,0.76,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,C,0.3,TP53,7571720
+Breast,SNP,17,7578271,7578271.0,T,C,0.56,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578532,7578532.0,A,T,0.93,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577106,7577106.0,G,C,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,0.45,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,0.19,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,C,0.45,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.66,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577120,7577120.0,C,T,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.48,TP53,7571720
+Breast Invasive Mixed Mucinous Carcinoma,SNP,17,7577120,7577120.0,C,T,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.62,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577120,7577120.0,C,T,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578535,7578535.0,T,G,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,T,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,T,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,G,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,T,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,T,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577547,7577547.0,C,T,0.75,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7577559,7577559.0,G,C,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578527,7578527.0,A,G,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578536,7578536.0,T,C,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578536,7578536.0,T,C,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577568,7577568.0,C,T,0.65,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577568,7577568.0,C,T,0.77,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578413,7578413.0,C,T,0.84,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577105,7577105.0,G,A,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,C,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,G,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578268,7578268.0,A,G,0.59,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578442,7578442.0,T,C,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578509,7578509.0,A,G,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577118,7577118.0,C,A,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578395,7578395.0,G,A,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,A,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578271,7578271.0,T,A,0.51,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7577098,7577098.0,T,G,0.45,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7577081,7577081.0,T,G,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577570,7577570.0,C,T,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577541,7577541.0,T,A,0.18,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577543,7577543.0,C,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577094,7577094.0,G,C,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577557,7577557.0,A,C,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578526,7578526.0,C,A,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578449,7578449.0,C,T,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578454,7578454.0,G,A,0.88,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578454,7578454.0,G,A,0.58,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578457,7578457.0,C,T,0.03,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578478,7578478.0,G,T,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577515,7577517.0,TGA,-,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578460,7578460.0,A,C,0.95,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,C,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,C,0.67,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577610,7577610.0,T,C,0.23,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577610,7577610.0,T,C,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578479,7578479.0,G,C,0.39,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7578479,7578479.0,G,C,0.43,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578479,7578479.0,G,C,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578461,7578461.0,C,A,0.37,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577141,7577141.0,C,T,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576852,7576852.0,C,T,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579311,7579311.0,C,-,0.36,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7578290,7578290.0,C,T,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,A,0.5,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7579349,7579349.0,A,C,0.41,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578553,7578553.0,T,C,0.47,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577139,7577139.0,G,A,0.02,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574035,7574035.0,T,C,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579350,7579350.0,A,C,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579350,7579350.0,A,C,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577017,7577017.0,A,C,0.59,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577017,7577017.0,A,C,0.53,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577017,7577017.0,A,C,0.8,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578202,7578202.0,A,T,0.14,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577609,7577609.0,C,G,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577142,7577142.0,C,T,0.37,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7577142,7577142.0,C,T,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,G,0.42,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578550,7578550.0,G,A,0.28,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7578550,7578550.0,G,A,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578502,7578502.0,A,C,0.22,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578176,7578176.0,C,T,0.61,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7578475,7578475.0,G,T,0.02,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7574034,7574034.0,C,G,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574034,7574034.0,C,G,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577129,7577129.0,A,C,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578384,7578401.0,GCAGCGCTCATGGTGGGG,-,0.59,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7578384,7578401.0,GCAGCGCTCATGGTGGGG,-,0.73,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578427,7578427.0,T,A,0.64,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578416,7578416.0,C,A,0.86,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578416,7578416.0,C,A,0.54,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7578416,7578416.0,C,A,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577153,7577153.0,C,A,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576927,7576927.0,C,G,0.62,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578204,7578204.0,A,C,0.65,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578226,7578226.0,T,A,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578226,7578226.0,T,A,0.55,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7574034,7574034.0,C,T,0.17,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7574034,7574034.0,C,T,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577517,7577517.0,A,G,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576927,7576927.0,C,A,0.48,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7576927,7576927.0,C,A,0.65,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577152,7577154.0,ACC,-,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577152,7577154.0,ACC,-,0.66,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577508,7577508.0,T,C,0.14,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577142,7577142.0,C,G,0.22,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7578535,7578537.0,TTG,-,0.52,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577610,7577610.0,T,G,0.51,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577610,7577610.0,T,G,0.3,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577610,7577610.0,T,G,0.86,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577610,7577610.0,T,G,0.52,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578175,7578175.0,A,C,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576397,7576978.0,CCCGCCACTGCACTCCAGCCTGGGTGACAGAGTGAGACTCTGTCTCCAAAAAAAAAAAAAAAAAAAGCAGGCTAGGCTAAGCTATGATGTTCCTTAGATTAGGTGTATTAAATCCATTTTCAACTTACAATATTTTCAACTTACGACGAGTTTATCAGGAAGTAACACCATCGTAAGTCAAGTAGCATCTGTATCAGGCAAAGTCATAGAACCATTTTCATGCTCTCTTTAACAATTTTCTTTTTGAAAGCTGGTCTGGTCCTTTAAAATATATATTATGGTATAAGTTGGTGTTCTGAAGTTAGTTAGCTACAACCAGGAGCCATTGTCTTTGAGGCATCACTGCCCCCTGATGGCAAATGCCCCAATTGCAGGTAAAACAGTCAAGAAGAAAACGGCATTTTGAGTGTTAGACTGGAAACTTTCCACTTGATAAGAGGTCCCAAGACTTAGTACCTGAAGGGTGAAATATTCTCCATCCAGTGGTTTCTTCTTTGGCTGGGGAGAGGAGCTGGTGTTGTTGGGCAGTGCTAGGAAAGAGGCAAGGAAAGGTGATAAAAGTGAATCTGAGGCATAACTGCA,-,0.97,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576397,7576978.0,CCCGCCACTGCACTCCAGCCTGGGTGACAGAGTGAGACTCTGTCTCCAAAAAAAAAAAAAAAAAAAGCAGGCTAGGCTAAGCTATGATGTTCCTTAGATTAGGTGTATTAAATCCATTTTCAACTTACAATATTTTCAACTTACGACGAGTTTATCAGGAAGTAACACCATCGTAAGTCAAGTAGCATCTGTATCAGGCAAAGTCATAGAACCATTTTCATGCTCTCTTTAACAATTTTCTTTTTGAAAGCTGGTCTGGTCCTTTAAAATATATATTATGGTATAAGTTGGTGTTCTGAAGTTAGTTAGCTACAACCAGGAGCCATTGTCTTTGAGGCATCACTGCCCCCTGATGGCAAATGCCCCAATTGCAGGTAAAACAGTCAAGAAGAAAACGGCATTTTGAGTGTTAGACTGGAAACTTTCCACTTGATAAGAGGTCCCAAGACTTAGTACCTGAAGGGTGAAATATTCTCCATCCAGTGGTTTCTTCTTTGGCTGGGGAGAGGAGCTGGTGTTGTTGGGCAGTGCTAGGAAAGAGGCAAGGAAAGGTGATAAAAGTGAATCTGAGGCATAACTGCA,-,0.91,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576397,7576978.0,CCCGCCACTGCACTCCAGCCTGGGTGACAGAGTGAGACTCTGTCTCCAAAAAAAAAAAAAAAAAAAGCAGGCTAGGCTAAGCTATGATGTTCCTTAGATTAGGTGTATTAAATCCATTTTCAACTTACAATATTTTCAACTTACGACGAGTTTATCAGGAAGTAACACCATCGTAAGTCAAGTAGCATCTGTATCAGGCAAAGTCATAGAACCATTTTCATGCTCTCTTTAACAATTTTCTTTTTGAAAGCTGGTCTGGTCCTTTAAAATATATATTATGGTATAAGTTGGTGTTCTGAAGTTAGTTAGCTACAACCAGGAGCCATTGTCTTTGAGGCATCACTGCCCCCTGATGGCAAATGCCCCAATTGCAGGTAAAACAGTCAAGAAGAAAACGGCATTTTGAGTGTTAGACTGGAAACTTTCCACTTGATAAGAGGTCCCAAGACTTAGTACCTGAAGGGTGAAATATTCTCCATCCAGTGGTTTCTTCTTTGGCTGGGGAGAGGAGCTGGTGTTGTTGGGCAGTGCTAGGAAAGAGGCAAGGAAAGGTGATAAAAGTGAATCTGAGGCATAACTGCA,-,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578205,7578205.0,C,G,0.6,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578205,7578205.0,C,G,0.97,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578205,7578205.0,C,G,0.78,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578460,7578460.0,A,G,0.11,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7579328,7579328.0,T,C,0.03,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578551,7578558.0,AGTACTGT,-,0.25,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577128,7577128.0,A,T,0.44,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7576916,7576957.0,GTTGGGCAGTGCTAGGAAAGAGGCAAGGAAAGGTGATAAAAG,-,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579311,7579311.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579312,7579312.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577018,7577018.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577018,7577018.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578555,7578555.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578555,7578555.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578206,7578206.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579312,7579312.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578454,7578454.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578454,7578454.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578454,7578454.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578454,7578454.0,G,A,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578454,7578454.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578454,7578454.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578455,7578455.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577511,7577511.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577511,7577511.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578475,7578475.0,G,A,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578478,7578478.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578208,7578208.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578370,7578370.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577515,7577517.0,TGA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577515,7577517.0,TGA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577515,7577517.0,TGA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578259,7578259.0,A,C,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578203,7578203.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578203,7578203.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577129,7577129.0,A,G,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577129,7577129.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578479,7578479.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577156,7577156.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577156,7577156.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578554,7578554.0,A,T,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577509,7577509.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578556,7578556.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578556,7578556.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579355,7579355.0,A,G,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7579355,7579355.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579355,7579355.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579355,7579355.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579355,7579355.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578461,7578461.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578461,7578461.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578190,7578190.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577141,7577141.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577141,7577141.0,C,T,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577141,7577141.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577141,7577141.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579311,7579311.0,C,-,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577498,7577498.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579312,7579312.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577018,7577018.0,C,T,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578370,7578370.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576852,7576852.0,C,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7576852,7576852.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578236,7578236.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577518,7577518.0,T,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578553,7578553.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577517,7577517.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577498,7577498.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578176,7578176.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578176,7578176.0,C,A,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578176,7578176.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577586,7577586.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578457,7578457.0,C,A,,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7577144,7577146.0,AGT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578479,7578479.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578466,7578466.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578466,7578466.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577141,7577141.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577141,7577141.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577141,7577141.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577609,7577609.0,C,G,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577138,7577138.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577142,7577142.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577142,7577142.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578203,7578203.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577157,7577157.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,G,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578550,7578550.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578550,7578550.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578550,7578550.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578235,7578235.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578176,7578176.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578176,7578176.0,C,T,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7574034,7574034.0,C,G,,TP53,7571720
+Breast Invasive Mixed Mucinous Carcinoma,SNP,17,7574034,7574034.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578479,7578479.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577129,7577129.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578384,7578401.0,GCAGCGCTCATGGTGGGG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578384,7578401.0,GCAGCGCTCATGGTGGGG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579310,7579310.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577153,7577153.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577153,7577153.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577153,7577153.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577153,7577153.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576927,7576927.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576927,7576927.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577511,7577511.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577506,7577506.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579355,7579355.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578469,7578469.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578291,7578291.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578291,7578291.0,T,G,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578291,7578291.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579329,7579329.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579329,7579329.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578202,7578202.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578555,7578555.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577128,7577128.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578226,7578226.0,T,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578260,7578260.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577517,7577517.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578538,7578538.0,T,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576927,7576927.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577139,7577139.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578236,7578236.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577561,7577566.0,ACTGTT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578415,7578415.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576851,7576851.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578535,7578537.0,TTG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578535,7578537.0,TTG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578535,7578537.0,TTG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578175,7578175.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578206,7578206.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577609,7577610.0,-,TCACGCCATTCTCCTTCCTCAGCCTCCCGAGTAG,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577145,7577163.0,GTAGATTACCACTACTCAG,-,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7577546,7577548.0,GCC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578269,7578270.0,-,GATGCTGAG,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578176,7578176.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578555,7578558.0,CTGT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578259,7578259.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578445,7578446.0,-,GCC,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578444,7578445.0,-,CAT,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577563,7577564.0,-,TGT,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7577093,7577119.0,CGGTCTCTCCCAGGACAGGCACAAACA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578229,7578237.0,TCCAAATAC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577516,7577527.0,GATGATGGTGAG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577141,7577156.0,CCCAGTAGATTACCAC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579294,7579311.0,CCCCTCAGGGCAACTGAC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578470,7578470.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578455,7578460.0,CGCGGA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577149,7577154.0,ATTACC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577578,7577592.0,TGTAGTGGATGGTGG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578215,7578235.0,AAGTGTTTCTGTCATCCAAAT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576923,7576928.0,AGTGCT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577552,7577553.0,-,CATGCAGGAACTGTTACA,,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7578398,7578400.0,GGG,-,,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7577142,7577144.0,CCA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577018,7577018.0,C,A,0.46,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578555,7578555.0,C,T,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578555,7578555.0,C,T,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578449,7578449.0,C,T,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578454,7578454.0,G,A,0.88,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578454,7578454.0,G,A,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578478,7578478.0,G,T,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578551,7578551.0,A,G,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577144,7577144.0,A,G,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,T,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,T,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,T,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,T,0.83,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577515,7577517.0,TGA,-,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577515,7577517.0,TGA,-,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578203,7578203.0,C,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578460,7578460.0,A,C,0.95,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,C,0.72,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,C,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578479,7578479.0,G,C,0.39,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578479,7578479.0,G,C,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577156,7577156.0,C,A,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577156,7577156.0,C,A,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577517,7577517.0,A,T,0.84,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578556,7578556.0,T,C,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579355,7579355.0,A,G,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578461,7578461.0,C,A,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577141,7577141.0,C,T,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577141,7577141.0,C,T,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577586,7577586.0,A,C,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578235,7578235.0,T,C,0.84,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578235,7578235.0,T,C,0.65,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578235,7578235.0,T,C,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576852,7576852.0,C,T,0.05,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576852,7576852.0,C,T,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579311,7579311.0,C,-,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578290,7578290.0,C,T,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578290,7578290.0,C,T,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577498,7577498.0,C,T,0.51,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7579368,7579368.0,A,C,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,A,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,A,0.5,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578370,7578370.0,C,A,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576852,7576852.0,C,A,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576852,7576852.0,C,A,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579349,7579349.0,A,C,0.18,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578553,7578553.0,T,C,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578553,7578553.0,T,C,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578191,7578191.0,A,G,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577517,7577517.0,A,C,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577498,7577498.0,C,A,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577139,7577139.0,G,A,0.18,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7574035,7574035.0,T,C,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574035,7574035.0,T,C,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579350,7579350.0,A,C,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579350,7579350.0,A,C,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577017,7577017.0,A,C,0.59,TP53,7571720
+Breast,SNP,17,7578556,7578556.0,T,A,0.95,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578202,7578202.0,A,T,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578466,7578466.0,G,T,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578550,7578550.0,G,T,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577142,7577142.0,C,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577142,7577142.0,C,T,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577142,7577142.0,C,T,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577142,7577142.0,C,T,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578203,7578203.0,C,A,0.59,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578291,7578291.0,T,C,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,G,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,G,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579358,7579358.0,C,G,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578550,7578550.0,G,A,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578502,7578502.0,A,C,0.22,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578235,7578235.0,T,G,0.6,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7574034,7574034.0,C,G,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574034,7574034.0,C,G,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574034,7574034.0,C,G,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578554,7578554.0,A,C,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577129,7577129.0,A,C,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578384,7578401.0,GCAGCGCTCATGGTGGGG,-,0.59,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578384,7578401.0,GCAGCGCTCATGGTGGGG,-,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578427,7578427.0,T,A,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577153,7577153.0,C,A,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576927,7576927.0,C,G,0.62,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577509,7577509.0,C,T,0.04,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577509,7577509.0,C,T,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577509,7577509.0,C,T,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576851,7576851.0,A,T,0.65,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578478,7578478.0,G,C,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576852,7576852.0,C,G,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578555,7578555.0,C,A,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578226,7578226.0,T,A,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578226,7578226.0,T,A,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578226,7578226.0,T,A,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578226,7578226.0,T,A,0.24,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7574034,7574034.0,C,T,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578235,7578235.0,T,A,0.45,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576927,7576927.0,C,A,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576927,7576927.0,C,A,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576927,7576927.0,C,A,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577152,7577154.0,ACC,-,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577152,7577154.0,ACC,-,0.66,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577130,7577130.0,A,G,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577130,7577130.0,A,G,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578196,7578196.0,A,T,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577511,7577511.0,A,C,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577508,7577508.0,T,C,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577561,7577566.0,ACTGTT,-,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578547,7578549.0,GGG,-,0.25,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578448,7578448.0,G,T,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578555,7578555.0,C,G,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,G,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578259,7578259.0,A,T,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578505,7578510.0,GGGCAG,-,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576397,7576978.0,CCCGCCACTGCACTCCAGCCTGGGTGACAGAGTGAGACTCTGTCTCCAAAAAAAAAAAAAAAAAAAGCAGGCTAGGCTAAGCTATGATGTTCCTTAGATTAGGTGTATTAAATCCATTTTCAACTTACAATATTTTCAACTTACGACGAGTTTATCAGGAAGTAACACCATCGTAAGTCAAGTAGCATCTGTATCAGGCAAAGTCATAGAACCATTTTCATGCTCTCTTTAACAATTTTCTTTTTGAAAGCTGGTCTGGTCCTTTAAAATATATATTATGGTATAAGTTGGTGTTCTGAAGTTAGTTAGCTACAACCAGGAGCCATTGTCTTTGAGGCATCACTGCCCCCTGATGGCAAATGCCCCAATTGCAGGTAAAACAGTCAAGAAGAAAACGGCATTTTGAGTGTTAGACTGGAAACTTTCCACTTGATAAGAGGTCCCAAGACTTAGTACCTGAAGGGTGAAATATTCTCCATCCAGTGGTTTCTTCTTTGGCTGGGGAGAGGAGCTGGTGTTGTTGGGCAGTGCTAGGAAAGAGGCAAGGAAAGGTGATAAAAGTGAATCTGAGGCATAACTGCA,-,0.97,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576397,7576978.0,CCCGCCACTGCACTCCAGCCTGGGTGACAGAGTGAGACTCTGTCTCCAAAAAAAAAAAAAAAAAAAGCAGGCTAGGCTAAGCTATGATGTTCCTTAGATTAGGTGTATTAAATCCATTTTCAACTTACAATATTTTCAACTTACGACGAGTTTATCAGGAAGTAACACCATCGTAAGTCAAGTAGCATCTGTATCAGGCAAAGTCATAGAACCATTTTCATGCTCTCTTTAACAATTTTCTTTTTGAAAGCTGGTCTGGTCCTTTAAAATATATATTATGGTATAAGTTGGTGTTCTGAAGTTAGTTAGCTACAACCAGGAGCCATTGTCTTTGAGGCATCACTGCCCCCTGATGGCAAATGCCCCAATTGCAGGTAAAACAGTCAAGAAGAAAACGGCATTTTGAGTGTTAGACTGGAAACTTTCCACTTGATAAGAGGTCCCAAGACTTAGTACCTGAAGGGTGAAATATTCTCCATCCAGTGGTTTCTTCTTTGGCTGGGGAGAGGAGCTGGTGTTGTTGGGCAGTGCTAGGAAAGAGGCAAGGAAAGGTGATAAAAGTGAATCTGAGGCATAACTGCA,-,0.91,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578205,7578205.0,C,G,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579300,7579313.0,AGGGCAACTGACCG,-,0.45,TP53,7571720
+Breast Invasive Ductal Carcinoma,TNP,17,7579348,7579350.0,GAA,AGG,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579360,7579360.0,G,T,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578292,7578292.0,A,C,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578499,7578510.0,TGCACAGGGCAG,-,0.05,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578499,7578510.0,TGCACAGGGCAG,-,0.25,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577533,7577547.0,GCCTCCGGTTCATGC,-,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579310,7579310.0,A,C,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579310,7579310.0,A,C,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576913,7576941.0,GTTGTTGGGCAGTGCTAGGAAAGAGGCAA,-,0.18,TP53,7571720
+Breast,DEL,17,7578480,7578488.0,TGTGGAATC,-,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578371,7578382.0,CATCGCTATCTG,-,0.68,TP53,7571720
+Breast Invasive Ductal Carcinoma,DNP,17,7577137,7577138.0,CC,GG,0.72,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7573958,7574277.0,TCCCAGCCTGGGCATCCTTGAGTTCCAAGGCCTCATTCAGCTCTCGGAACATCTCGAAGCGCTCACGCCCACGGATCTGCAGCAACAGAGGAGGGGGAGAAGTAAGTATATACACAGTACCTGAGTTAAAAGATGGTTCAAGTTACAATTGTTTGACTTTATGACGGTACAAAAGCAACATGCATTTAGTAGAAACTGCACTTCAAGTACCTATACAGCTGACTTTTAAAAATATTTATTTATTTATTTTGAGATGGGGTCTCACTCTGTTGCCCAGGCGGGAGTGCAATGGTGCAATCTTGGCTGATTGCAATCTCCGC,-,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579591,7579592.0,-,CT,0.48,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,INS,17,7578516,7578517.0,-,GGCCAGTTGGCAAAACATCTTGTTGAG,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579311,7579311.0,C,A,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578555,7578555.0,C,T,0.77,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577609,7577609.0,C,T,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578449,7578449.0,C,T,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578478,7578478.0,G,T,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579591,7579591.0,C,G,0.83,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578551,7578551.0,A,G,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578290,7578290.0,C,G,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577144,7577144.0,A,G,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,T,0.27,TP53,7571720
+Breast Invasive Lobular Carcinoma,DEL,17,7577515,7577517.0,TGA,-,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578259,7578259.0,A,C,0.72,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578556,7578556.0,T,G,0.29,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578203,7578203.0,C,T,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578203,7578203.0,C,T,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578203,7578203.0,C,T,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578458,7578458.0,G,C,0.83,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578460,7578460.0,A,C,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577129,7577129.0,A,G,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,C,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,C,0.25,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577610,7577610.0,T,C,0.81,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578479,7578479.0,G,C,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578467,7578467.0,T,G,0.82,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577156,7577156.0,C,A,0.66,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578440,7578440.0,T,C,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578554,7578554.0,A,T,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577509,7577509.0,C,G,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577517,7577517.0,A,T,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578556,7578556.0,T,C,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579355,7579355.0,A,G,0.67,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579355,7579355.0,A,G,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577130,7577130.0,A,T,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578461,7578461.0,C,A,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,G,0.13,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578190,7578190.0,T,G,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577141,7577141.0,C,T,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577141,7577141.0,C,T,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578427,7578427.0,T,G,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577586,7577586.0,A,C,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578443,7578445.0,AGA,-,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579311,7579311.0,C,T,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578205,7578205.0,C,A,0.81,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578235,7578235.0,T,C,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576852,7576852.0,C,T,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579311,7579311.0,C,-,0.9,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578290,7578290.0,C,T,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577498,7577498.0,C,T,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579312,7579312.0,C,G,0.38,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577018,7577018.0,C,T,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579368,7579368.0,A,C,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578370,7578370.0,C,A,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578462,7578464.0,GCG,-,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577144,7577144.0,A,C,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576852,7576852.0,C,A,0.59,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7579349,7579349.0,A,C,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578236,7578236.0,A,T,0.31,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578542,7578542.0,G,C,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577518,7577518.0,T,A,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578553,7578553.0,T,C,0.48,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7578191,7578191.0,A,G,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577517,7577517.0,A,C,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577102,7577102.0,C,T,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574002,7574002.0,C,G,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578517,7578517.0,G,A,0.75,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578392,7578392.0,C,T,0.14,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578392,7578392.0,C,T,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578520,7578520.0,A,T,0.27,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578400,7578400.0,G,C,0.36,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7577552,7577552.0,C,A,0.02,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7578263,7578263.0,G,C,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578410,7578410.0,T,C,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578410,7578410.0,T,C,0.18,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578262,7578262.0,C,T,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574002,7574002.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574002,7574002.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574002,7574002.0,C,G,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7574002,7574002.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574002,7574002.0,C,G,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577112,7577112.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576853,7576853.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578520,7578520.0,A,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574026,7574026.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576857,7576857.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578400,7578400.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577102,7577102.0,C,T,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574002,7574002.0,C,G,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577090,7577090.0,C,G,0.9,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578392,7578392.0,C,T,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578520,7578520.0,A,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574026,7574026.0,C,A,0.02,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578518,7578518.0,C,G,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578518,7578518.0,C,G,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,C,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578410,7578410.0,T,C,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578410,7578410.0,T,C,0.18,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578262,7578262.0,C,T,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576857,7576857.0,A,G,0.57,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7574005,7574005.0,A,G,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577102,7577102.0,C,T,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574002,7574002.0,C,G,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574002,7574002.0,C,G,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577112,7577112.0,C,G,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.06,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7578212,7578212.0,G,A,0.87,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7579470,7579471.0,-,G,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574023,7574023.0,C,-,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576897,7576897.0,G,A,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574003,7574003.0,G,-,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,0.94,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578419,7578419.0,C,A,0.5,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7572986,7572986.0,G,A,0.38,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7572986,7572986.0,G,A,0.72,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577079,7577079.0,C,A,0.02,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7576855,7576855.0,G,A,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,0.71,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7576855,7576855.0,G,A,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579529,7579529.0,C,T,0.31,TP53,7571720
+"Breast Invasive Carcinoma, NOS",DEL,17,7572963,7572963.0,T,-,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,0.58,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7579536,7579536.0,C,A,0.08,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7574003,7574003.0,G,A,0.26,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7574003,7574003.0,G,A,0.76,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7574003,7574003.0,G,A,0.37,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7574003,7574003.0,G,A,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.64,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578371,7578371.0,C,T,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579414,7579414.0,C,T,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578382,7578382.0,G,C,0.78,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578382,7578382.0,G,C,0.81,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578253,7578253.0,C,A,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577100,7577100.0,T,A,0.59,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577100,7577100.0,T,A,0.4,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577077,7577077.0,C,G,0.13,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577077,7577077.0,C,G,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579590,7579591.0,-,CT,0.48,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578493,7578493.0,C,T,0.75,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578493,7578493.0,C,T,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578179,7578179.0,C,A,0.09,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579406,7579406.0,G,T,0.08,TP53,7571720
+"Breast Invasive Carcinoma, NOS",DEL,17,7577567,7577568.0,AC,-,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578213,7578213.0,A,-,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,A,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,A,0.72,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,A,0.8,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578524,7578524.0,G,A,0.7,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578524,7578524.0,G,A,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578177,7578177.0,C,G,0.38,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577127,7577127.0,C,A,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577127,7577127.0,C,A,0.62,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579389,7579389.0,G,A,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579389,7579389.0,G,A,0.14,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7578484,7578485.0,-,A,0.35,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7578484,7578485.0,-,A,0.94,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7578433,7578433.0,G,T,0.47,TP53,7571720
+Breast Invasive Lobular Carcinoma,DEL,17,7577036,7577036.0,G,-,0.1,TP53,7571720
+"Breast Invasive Carcinoma, NOS",DEL,17,7577036,7577036.0,G,-,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579505,7579506.0,TC,-,0.31,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578392,7578392.0,C,A,0.26,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578392,7578392.0,C,A,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578392,7578392.0,C,A,0.83,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579849,7579849.0,G,-,0.15,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7579528,7579528.0,C,T,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577058,7577058.0,C,-,0.13,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7578431,7578432.0,-,T,0.92,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7578431,7578432.0,-,T,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579709,7579710.0,-,T,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579709,7579710.0,-,T,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579408,7579460.0,CAGGGGCCAGGAGGGGGCTGGTGCAGGGGCCGCCGGTGTAGGAGCTGCTGGTG,-,0.74,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579408,7579460.0,CAGGGGCCAGGAGGGGGCTGGTGCAGGGGCCGCCGGTGTAGGAGCTGCTGGTG,-,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576897,7576897.0,G,-,0.29,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7573988,7573988.0,C,T,0.67,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577565,7577565.0,T,-,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577140,7577144.0,TCCCA,-,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578401,7578402.0,GG,T,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577041,7577137.0,CAGCTCGTGGTGAGGCTCCCCTTTCTTGCGGAGATTCTCTTCCTCTGTGCGCCGGTCTCTCCCAGGACAGGCACAAACACGCACCTCAAAGCTGTTC,-,0.06,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7577041,7577137.0,CAGCTCGTGGTGAGGCTCCCCTTTCTTGCGGAGATTCTCTTCCTCTGTGCGCCGGTCTCTCCCAGGACAGGCACAAACACGCACCTCAAAGCTGTTC,-,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579425,7579426.0,-,T,0.55,TP53,7571720
+Invasive Breast Carcinoma,INS,17,7578238,7578239.0,-,CCACACGC,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579569,7579575.0,TTGCTTG,-,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577506,7577507.0,-,T,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577506,7577507.0,-,T,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578435,7578435.0,C,A,0.29,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577069,7577069.0,C,T,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577524,7577524.0,T,G,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577524,7577524.0,T,G,0.25,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577524,7577524.0,T,G,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577524,7577524.0,T,G,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577524,7577524.0,T,G,0.62,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579366,7579369.0,GTAG,-,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578521,7578531.0,GTTGGCAAAAC,-,0.87,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577545,7577550.0,TGCCGC,GGCGG,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577545,7577550.0,TGCCGC,GGCGG,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576888,7576888.0,T,A,0.73,TP53,7571720
+"Breast Invasive Carcinoma, NOS",DEL,17,7579838,7579844.0,CAGTTTC,-,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576814,7576883.0,GAAACTTTCCACTTGATAAGAGGTCCCAAGACTTAGTACCTGAAGGGTGAAATATTCTCCATCCAGTGGT,-,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579371,7579390.0,TGCCCTGGTAGGTTTTCTGG,-,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577152,7577152.0,A,-,0.66,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7579403,7579410.0,GATGACAG,-,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577125,7577131.0,CTCAAAG,-,0.49,TP53,7571720
+"Breast Invasive Cancer, NOS",DEL,17,7578175,7578187.0,ACCTCAGGCGGCT,-,0.67,TP53,7571720
+"Breast Invasive Cancer, NOS",DEL,17,7578479,7578480.0,GT,-,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579524,7579540.0,TGAACCATTGTTCAATA,-,0.63,TP53,7571720
+"Breast Invasive Carcinoma, NOS",TNP,17,7577590,7577592.0,TGG,CGT,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578239,7578240.0,-,CA,0.81,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578380,7578380.0,C,T,0.5,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577599,7577599.0,C,G,0.05,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7577045,7577045.0,T,-,0.47,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7577045,7577045.0,T,-,0.71,TP53,7571720
+Invasive Breast Carcinoma,INS,17,7577146,7577147.0,-,A,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579396,7579405.0,GACAGAAGAT,-,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579329,7579330.0,-,G,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7574002,7574003.0,-,TA,0.56,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7578464,7578464.0,G,T,0.02,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576886,7576889.0,CTTC,TTA,0.41,TP53,7571720
+"Breast Invasive Carcinoma, NOS",INS,17,7578259,7578260.0,-,CTCGGATAAGATGCTG,0.32,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7577052,7577053.0,GA,-,0.51,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7577052,7577053.0,GA,-,0.57,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7573922,7573977.0,CTCACCTGGAGTGAGCCCTGCTCCCCCCTGGCTCCTTCCCAGCCTGGGCATCCTTG,-,0.32,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7578205,7578205.0,C,-,0.5,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7578386,7578386.0,A,-,0.7,TP53,7571720
+"Breast Invasive Carcinoma, NOS",DEL,17,7578386,7578386.0,A,-,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577564.0,GGAACTG,-,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579521,7579521.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576897,7576897.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576897,7576897.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574003,7574003.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574003,7574003.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578419,7578419.0,C,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578419,7578419.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578500,7578500.0,G,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578500,7578500.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,A,,TP53,7571720
+Breast,SNP,17,7577079,7577079.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7579529,7579529.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578222,7578223.0,TC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578222,7578223.0,TC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578222,7578223.0,TC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579536,7579536.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7574003,7574003.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7574003,7574003.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7574003,7574003.0,G,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7574003,7574003.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7578263,7578263.0,G,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7577058,7577058.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577058,7577058.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577058,7577058.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578257,7578257.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578257,7578257.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578257,7578257.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578257,7578257.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579364,7579364.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574030,7574030.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574030,7574030.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574030,7574030.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579419,7579419.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578431,7578431.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578431,7578431.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579383,7579383.0,T,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579414,7579414.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579414,7579414.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579414,7579414.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578239,7578239.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578382,7578382.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578382,7578382.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578382,7578382.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578491,7578491.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578547,7578547.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578253,7578253.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579315,7579315.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577509,7577509.0,C,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577509,7577509.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577085,7577085.0,C,A,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577085,7577085.0,C,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577085,7577085.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576881,7576881.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578469,7578469.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576873,7576873.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7579369,7579369.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577094,7577094.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578512,7578513.0,TC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578264,7578268.0,GATAA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578471,7578471.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579346,7579348.0,AAG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578213,7578213.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578492,7578492.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577046,7577046.0,C,A,,TP53,7571720
+Invasive Breast Carcinoma,SNP,17,7577046,7577046.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577046,7577046.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579377,7579377.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577594,7577595.0,AC,-,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7577594,7577595.0,AC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577594,7577595.0,AC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577594,7577595.0,AC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578250,7578250.0,T,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578250,7578250.0,T,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578527,7578527.0,A,-,,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7578255,7578255.0,T,-,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7573984,7573984.0,A,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578433,7578433.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579533,7579533.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578267,7578267.0,A,-,,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7577572,7577572.0,T,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578475,7578475.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577573,7577573.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578177,7578177.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7573982,7573982.0,C,A,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7573982,7573982.0,C,A,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7573982,7573982.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7573983,7573983.0,C,A,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7573983,7573983.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578206,7578207.0,TA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579389,7579389.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579317,7579317.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578485,7578485.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579408,7579430.0,CAGGGGCCAGGAGGGGGCTGGTG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577114,7577114.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577036,7577036.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578392,7578392.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579503,7579503.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579503,7579503.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578418,7578418.0,T,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578192,7578192.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578437,7578437.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578437,7578437.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579855,7579855.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578218,7578218.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577067,7577067.0,T,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578277,7578277.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579344,7579345.0,-,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579346,7579347.0,-,CAG,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7578247,7578247.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579351,7579371.0,GCCCAGACGGAAACCGTAGCT,-,,TP53,7571720
+Invasive Breast Carcinoma,INS,17,7577107,7577108.0,-,ACAGGCACAAACACGC,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7576843,7576861.0,GACTTAGTACCTGAAGGGT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578468,7578469.0,-,GCCGGGC,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576907,7576907.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579487,7579487.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577547,7577547.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577032,7577033.0,-,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579329,7579339.0,TGGCTGTCCCA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577567,7577568.0,-,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577567,7577568.0,-,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577567,7577568.0,-,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577567,7577568.0,-,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578458,7578465.0,GGACGCGG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576897,7576897.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577130,7577145.0,AGCTGTTCCGTCCCAG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579367,7579371.0,TAGCT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579357,7579362.0,ACGGAA,-,,TP53,7571720
+Invasive Breast Carcinoma,INS,17,7578416,7578417.0,-,CCT,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578267,7578268.0,-,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579458,7579468.0,GTGCAGGGGCC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7573974,7573981.0,CTTGAGTT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579345,7579346.0,-,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578485,7578489.0,AATCA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578485,7578488.0,AATC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574015,7574016.0,AG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579366,7579366.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579366,7579366.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579366,7579366.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579361,7579362.0,-,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578208,7578208.0,T,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579324,7579325.0,-,A,,TP53,7571720
+Invasive Breast Carcinoma,INS,17,7579324,7579325.0,-,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577027,7577028.0,-,GT,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577567,7577567.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577126,7577126.0,T,-,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7579557,7579557.0,T,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578475,7578476.0,-,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578475,7578476.0,-,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578475,7578476.0,-,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577036,7577037.0,-,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577036,7577037.0,-,G,,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7579538,7579539.0,AT,-,,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7579514,7579515.0,-,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579358,7579358.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579358,7579358.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579364,7579365.0,-,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579381,7579382.0,GG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578405,7578406.0,GC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577077,7577078.0,-,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579442,7579443.0,-,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578418,7578418.0,T,C,,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7573985,7573986.0,-,AG,,TP53,7571720
+Breast Invasive Lobular Carcinoma,DEL,17,7573982,7573983.0,CC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7573996,7573996.0,A,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574001,7574011.0,TCGGAACATCT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579358,7579359.0,-,CGGAAAC,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579358,7579359.0,-,CGGAAAC,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578460,7578467.0,ACGCGGGT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578463,7578464.0,-,CGGGTGC,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578398,7578399.0,-,G,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,INS,17,7579317,7579318.0,-,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579366,7579366.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579366,7579366.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574011,7574011.0,T,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579356,7579356.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578518,7578518.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579532,7579542.0,TGTTCAATATC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577519,7577519.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578268,7578277.0,AGATGCTGAG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579481,7579481.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579523,7579532.0,GTGAACCATT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579521,7579528.0,CAGTGAAC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7572933,7572933.0,T,-,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,INS,17,7574007,7574008.0,-,CATCT,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576855,7576855.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578432,7578445.0,TGACTGCTTGTAGA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577545,7577545.0,T,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577032,7577033.0,-,CC,,TP53,7571720
+Invasive Breast Carcinoma,INS,17,7577537,7577538.0,-,CCGGTTCATG,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578185,7578208.0,GCTCATAGGGCACCACCACACTAT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578196,7578199.0,ACCA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577130,7577136.0,AGCTGTT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578396,7578397.0,GT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576870,7576870.0,C,G,,TP53,7571720
+Breast,DEL,17,7579368,7579368.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7572928,7572929.0,CA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578267,7578270.0,AAGA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7576895,7576896.0,-,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579537,7579537.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578265,7578265.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7572942,7572942.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577504,7577504.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577518,7577519.0,-,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7590694,7590694.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578434,7578434.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578390,7578408.0,CTCATGGTGGGGGCAGCGC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579467,7579467.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578184,7578185.0,-,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579358,7579364.0,CGGAAAC,-,,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7578376,7578376.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579533,7579534.0,-,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7576905,7576906.0,-,GAGCT,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579587,7579588.0,-,GGGAC,,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7579313,7579313.0,G,-,,TP53,7571720
+Breast Invasive Lobular Carcinoma,DEL,17,7578500,7578507.0,GCACAGGG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579313,7579314.0,GT,-,,TP53,7571720
+Breast Invasive Lobular Carcinoma,DEL,17,7579353,7579356.0,CCAG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579521,7579527.0,CAGTGAA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579425,7579440.0,CTGGTGCAGGGGCCGC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574002,7574006.0,CGGAA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579365,7579369.0,CGTAG,-,,TP53,7571720
+Breast Invasive Lobular Carcinoma,DEL,17,7577152,7577153.0,AC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578259,7578259.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7572973,7572988.0,CGGGAGGTAGACTGAC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578235,7578244.0,TACTCCACAC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579360,7579368.0,GAAACCGTA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577090,7577093.0,CGCC,-,,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7579311,7579312.0,-,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579554,7579554.0,G,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578205,7578206.0,CT,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577026,7577026.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578457,7578457.0,C,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579540,7579541.0,-,TG,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577082,7577083.0,-,CCTCTGAGAATCTC,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577522,7577522.0,G,-,,TP53,7571720
+Breast,DEL,17,7577559,7577560.0,GA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577126,7577145.0,TCAAAGCTGTTCCGTCCCAG,-,,TP53,7571720
+Breast Invasive Lobular Carcinoma,DEL,17,7573985,7573993.0,AGGCCTCAT,-,,TP53,7571720
+Breast Invasive Lobular Carcinoma,DEL,17,7578404,7578404.0,A,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579352,7579364.0,CCCAGACGGAAAC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579339,7579349.0,AGAATGCAAGA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579541,7579541.0,T,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578198,7578199.0,-,CACCACACTATGTCGAAAAGTGT,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578504,7578540.0,AGGGCAGGTCTTGGCCAGTTGGCAAAACATCTTGTTG,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.03,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.69,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.38,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578212,7578212.0,G,A,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.06,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7578212,7578212.0,G,A,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574012,7574012.0,C,A,0.25,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579470,7579471.0,-,G,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579521,7579521.0,C,A,0.45,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574023,7574023.0,C,-,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574003,7574003.0,G,-,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578414,7578414.0,A,-,0.21,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578275,7578275.0,G,A,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,0.42,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7574021,7574021.0,C,A,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574021,7574021.0,C,A,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574021,7574021.0,C,A,0.38,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7574021,7574021.0,C,A,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,A,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,A,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577082,7577082.0,C,A,0.1,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7572986,7572986.0,G,A,0.38,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7572986,7572986.0,G,A,0.72,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577079,7577079.0,C,A,0.02,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577079,7577079.0,C,A,0.05,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7576855,7576855.0,G,A,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,0.71,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,0.28,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7576855,7576855.0,G,A,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579529,7579529.0,C,T,0.31,TP53,7571720
+"Breast Invasive Cancer, NOS",DEL,17,7572963,7572963.0,T,-,0.17,TP53,7571720
+Breast Invasive Lobular Carcinoma,DEL,17,7578222,7578223.0,TC,-,0.17,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7578222,7578223.0,TC,-,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,0.07,TP53,7571720
+Metaplastic Breast Cancer,DEL,17,7577558,7577558.0,G,-,0.85,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,0.33,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7574003,7574003.0,G,A,0.37,TP53,7571720
+Breast,SNP,17,7574003,7574003.0,G,A,0.4,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7574003,7574003.0,G,A,0.43,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7574003,7574003.0,G,A,0.81,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7574003,7574003.0,G,A,0.31,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7574003,7574003.0,G,A,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.62,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7574003,7574003.0,G,A,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.19,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.1,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.02,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577058,7577058.0,C,A,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578257,7578257.0,C,A,0.3,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7579364,7579364.0,C,-,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579359,7579359.0,G,-,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,0.87,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578213,7578214.0,AA,-,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579414,7579414.0,C,T,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579414,7579414.0,C,T,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578239,7578239.0,C,A,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578239,7578239.0,C,A,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578239,7578239.0,C,A,0.19,TP53,7571720
+"Breast Invasive Cancer, NOS",DEL,17,7577027,7577027.0,G,-,0.67,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578382,7578382.0,G,C,0.78,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578253,7578253.0,C,A,0.74,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579409,7579410.0,AG,-,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579321,7579322.0,CA,-,0.44,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577077,7577077.0,C,G,0.13,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577077,7577077.0,C,G,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578398,7578398.0,G,-,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578179,7578179.0,C,A,0.09,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574000,7574000.0,C,A,0.25,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7574000,7574000.0,C,A,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579369,7579369.0,G,C,0.74,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576910,7576910.0,G,-,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578213,7578213.0,A,-,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578492,7578492.0,C,T,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578492,7578492.0,C,T,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577046,7577046.0,C,A,0.66,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577046,7577046.0,C,A,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,A,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,A,0.72,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,A,0.8,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578524,7578524.0,G,A,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578234,7578234.0,A,T,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576858,7576858.0,G,-,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578527,7578527.0,A,-,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578254,7578254.0,C,A,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579356,7579359.0,GACG,-,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578433,7578433.0,G,C,0.13,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579533,7579533.0,G,A,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579420,7579420.0,G,-,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579559,7579559.0,A,-,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578177,7578177.0,C,G,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577127,7577127.0,C,A,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577127,7577127.0,C,A,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7573982,7573982.0,C,A,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579389,7579389.0,G,A,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579389,7579389.0,G,A,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579389,7579389.0,G,A,0.14,TP53,7571720
+Breast Invasive Lobular Carcinoma,DEL,17,7577036,7577036.0,G,-,0.1,TP53,7571720
+Breast,DEL,17,7577560,7577560.0,A,-,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578474,7578475.0,-,G,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578470,7578482.0,CGGGCGGGGGTGT,-,0.66,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579505,7579506.0,TC,-,0.31,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578392,7578392.0,C,A,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579849,7579849.0,G,-,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578503,7578518.0,CAGGGCAGGTCTTGGC,-,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576865,7576865.0,A,C,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577058,7577058.0,C,-,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577058,7577058.0,C,-,0.13,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578192,7578192.0,G,-,0.68,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578192,7578192.0,G,-,0.07,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7578437,7578437.0,G,A,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579709,7579710.0,-,T,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578430,7578431.0,TG,-,0.59,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576870,7576870.0,C,A,0.67,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577515,7577515.0,T,G,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579408,7579460.0,CAGGGGCCAGGAGGGGGCTGGTGCAGGGGCCGCCGGTGTAGGAGCTGCTGGTG,-,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576897,7576897.0,G,-,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579366,7579366.0,G,T,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578475,7578476.0,-,G,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577036,7577037.0,-,G,0.07,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579364,7579365.0,-,C,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579358,7579359.0,-,CGGAAAC,0.18,TP53,7571720
+"Breast Invasive Cancer, NOS",SNP,17,7579366,7579366.0,G,C,0.04,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579358,7579364.0,CGGAAAC,-,0.51,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7578485,7578486.0,-,A,0.35,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7578485,7578486.0,-,A,0.94,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579358,7579359.0,-,GGA,0.44,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579347,7579352.0,AGAAGC,CA,0.42,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579533,7579534.0,-,TTCAA,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577565,7577565.0,T,-,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577140,7577144.0,TCCCA,-,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578401,7578402.0,GG,T,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579341,7579342.0,-,ATGC,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579319,7579319.0,G,-,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577041,7577137.0,CAGCTCGTGGTGAGGCTCCCCTTTCTTGCGGAGATTCTCTTCCTCTGTGCGCCGGTCTCTCCCAGGACAGGCACAAACACGCACCTCAAAGCTGTTC,-,0.06,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577041,7577137.0,CAGCTCGTGGTGAGGCTCCCCTTTCTTGCGGAGATTCTCTTCCTCTGTGCGCCGGTCTCTCCCAGGACAGGCACAAACACGCACCTCAAAGCTGTTC,-,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579438,7579439.0,-,G,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579425,7579426.0,-,T,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579370,7579370.0,C,-,0.28,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579401,7579401.0,A,-,0.23,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578238,7578239.0,-,CCACACGC,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579569,7579575.0,TTGCTTG,-,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577506,7577507.0,-,T,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578435,7578435.0,C,A,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579342,7579515.0,ATGCAAGAAGCCCAGACGGAAACCGTAGCTGCCCTGGTAGGTTTTCTGGGAAGGGACAGAAGATGACAGGGGCCAGGAGGGGGCTGGTGCAGGGGCCGCCGGTGTAGGAGCTGCTGGTGCAGGGGCCACGGGGGGAGCAGCCTCTGGCATTCTGGGAGCTTCATCTGGACCTGG,-,0.13,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579342,7579515.0,ATGCAAGAAGCCCAGACGGAAACCGTAGCTGCCCTGGTAGGTTTTCTGGGAAGGGACAGAAGATGACAGGGGCCAGGAGGGGGCTGGTGCAGGGGCCGCCGGTGTAGGAGCTGCTGGTGCAGGGGCCACGGGGGGAGCAGCCTCTGGCATTCTGGGAGCTTCATCTGGACCTGG,-,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576862,7576862.0,G,-,0.24,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577069,7577069.0,C,T,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577524,7577524.0,T,G,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577524,7577524.0,T,G,0.25,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577524,7577524.0,T,G,0.3,TP53,7571720
+Metaplastic Breast Cancer,DEL,17,7577587,7577587.0,T,-,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7573970,7573994.0,CATCCTTGAGTTCCAAGGCCTCATT,-,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579366,7579369.0,GTAG,-,0.33,TP53,7571720
+Metaplastic Breast Cancer,SNP,17,7578189,7578189.0,A,C,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577075,7577076.0,-,T,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578521,7578531.0,GTTGGCAAAAC,-,0.87,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577135,7577135.0,T,A,0.51,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577545,7577550.0,TGCCGC,GGCGG,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577545,7577550.0,TGCCGC,GGCGG,0.3,TP53,7571720
+Invasive Breast Carcinoma,DEL,17,7579329,7579332.0,TGGC,-,0.65,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578284,7578288.0,CCAGA,-,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576888,7576888.0,T,A,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576888,7576888.0,T,A,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576888,7576888.0,T,A,0.73,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579373,7579373.0,C,-,0.49,TP53,7571720
+Breast,DEL,17,7577081,7577084.0,TCCT,CC,0.96,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579317,7579324.0,AAGTCACA,-,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579345,7579364.0,CAAGAAGCCCAGACGGAAAC,-,0.74,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579552,7579552.0,C,-,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576827,7576857.0,TGATAAGAGGTCCCAAGACTTAGTACCTGAA,-,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7573988,7573988.0,C,G,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577596,7577596.0,A,-,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577027,7577036.0,GTGCTCCCTG,-,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579360,7579365.0,GAAACC,-,0.42,TP53,7571720
+"Breast Invasive Cancer, NOS",DEL,17,7579838,7579844.0,CAGTTTC,-,0.11,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577543,7577543.0,C,-,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576814,7576883.0,GAAACTTTCCACTTGATAAGAGGTCCCAAGACTTAGTACCTGAAGGGTGAAATATTCTCCATCCAGTGGT,-,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576885,7576903.0,TCTTCTTTGGCTGGGGAGA,-,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578488,7578488.0,C,-,0.32,TP53,7571720
+"Breast Invasive Cancer, NOS",DEL,17,7577122,7577123.0,CA,-,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579371,7579390.0,TGCCCTGGTAGGTTTTCTGG,-,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579356,7579366.0,GACGGAAACCG,-,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577152,7577152.0,A,-,0.66,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578411,7578411.0,C,-,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579403,7579410.0,GATGACAG,-,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577003,7577039.0,TGTCCTGCTTGCTTACCTCGCTTAGTGCTCCCTGGGG,-,0.46,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7578359,7578375.0,CCAGCTGCTCACCATCG,-,0.66,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577059,7577068.0,CCCTTTCTTG,-,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576883,7576883.0,T,-,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574014,7574025.0,AAGCGCTCACGC,-,0.7,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7576889,7576890.0,-,A,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574014,7574014.0,A,-,0.1,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577125,7577131.0,CTCAAAG,-,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578424,7578427.0,ATGT,-,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579438,7579439.0,CG,-,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577530,7577533.0,TGGG,AGGGA,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578175,7578187.0,ACCTCAGGCGGCT,-,0.67,TP53,7571720
+Breast Invasive Lobular Carcinoma,INS,17,7579471,7579472.0,-,G,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579463,7579472.0,GGGGCCACGG,-,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579347,7579358.0,AGAAGCCCAGAC,-,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578479,7578480.0,GT,-,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576914,7576914.0,T,-,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577512,7577512.0,G,-,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578193,7578193.0,G,A,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578215,7578215.0,A,C,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578221,7578236.0,TTCTGTCATCCAAATA,-,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578443,7578444.0,AG,-,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576837,7577056.0,TCCCAAGACTTAGTACCTGAAGGGTGAAATATTCTCCATCCAGTGGTTTCTTCTTTGGCTGGGGAGAGGAGCTGGTGTTGTTGGGCAGTGCTAGGAAAGAGGCAAGGAAAGGTGATAAAAGTGAATCTGAGGCATAACTGCACCCTTGGTCTCCTCCACCGCTTCTTGTCCTGCTTGCTTACCTCGCTTAGTGCTCCCTGGGGGCAGCTCGTGGTGAGGC,-,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579524,7579540.0,TGAACCATTGTTCAATA,-,0.39,TP53,7571720
+Breast Invasive Ductal Carcinoma,TNP,17,7577590,7577592.0,TGG,CGT,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577145,7577154.0,GTAGATTACC,-,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577145,7577154.0,GTAGATTACC,-,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579363,7579363.0,A,TTT,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7573269,7573967.0,AGTGTAATGGTGAGATCTCAGCTCACCGCAACCTCTGCCTCCCGGGTTCAAGCGATTCTCCTGCCTCAGCCTCCCGAGTAGGTAGCTGGGATTACAGGCATGCATCACCACGCCCGGCTACTTTTGTATTTTTAGTAGAGATGGGGTTTCTCCATGTTGGTCAGGCTGGGCTCAAACTCCCGACCTCAGGTGATCCACTCGCCTTGGCCTCCCAGAGTGTGGGATTCGTGAGCCACTGCGCCCGGCCCCCTTACCCCATTTTATATATAAGGAAACTGAGTTTGACGGGGGTCACCTAGGACCTGCCGGTGCATGGCAGGGCTGAGTATATGACCTGAAACTCTGGCTGTATTCAGTATTACACAATTATTAGGCCCCTCCTTGAGACCCTCCAGCTCTGGGCTGGGAGTTGCGGAGAATGGCAAAGAAGTATCCACACTCGTCCCTGGGTTTGGATGTTCTGTGGATACACTGAGGCAAGAATGTGGTTATAGGATTCAACCGGAGGAAGACTAAAAAAATGTCTGTGCAGGGCTGGGACCCAATGAGATGGGGTCAGCTGCCTTTGACCATGAAGGCAGGATGAGAATGGAATCCTATGGCTTTCCAACCTAGGAAGGCAGGGGAGTAGGGCCAGGAAGGGGCTGAGGTCACTCACCTGGAGTGAGCCCTGCTCCCCCCTGGCTCCTTCCCAGCCTG,-,0.97,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579401,7579402.0,AA,-,0.67,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578533,7578536.0,TCTT,-,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578239,7578240.0,-,CA,0.81,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7574025,7574026.0,-,C,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576846,7576882.0,TTAGTACCTGAAGGGTGAAATATTCTCCATCCAGTGG,-,0.06,TP53,7571720
+"Breast Invasive Cancer, NOS",INS,17,7579566,7579567.0,-,C,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579336,7579337.0,-,CC,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577147,7577148.0,-,A,0.36,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7574012,7574013.0,-,CGAAGCGCTCA,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577600,7577601.0,-,A,0.26,TP53,7571720
+Metaplastic Breast Cancer,INS,17,7579585,7579586.0,-,G,0.08,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7574003,7574004.0,-,TA,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578232,7578233.0,-,AAAT,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7576867,7576868.0,-,A,0.33,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579392,7579393.0,-,AAGGGACAGAAGATGA,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579358,7579359.0,-,CGTTT,0.21,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579330,7579331.0,-,G,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578197,7578198.0,-,CC,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.45,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.57,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.84,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578212,7578212.0,G,A,0.37,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579521,7579521.0,C,A,0.62,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574003,7574003.0,G,-,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578275,7578275.0,G,A,0.85,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578500,7578500.0,G,A,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,0.77,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576855,7576855.0,G,A,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578188,7578188.0,C,A,0.73,TP53,7571720
+Metaplastic Breast Cancer,DEL,17,7578222,7578223.0,TC,-,0.17,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578222,7578223.0,TC,-,0.75,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578222,7578223.0,TC,-,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578222,7578223.0,TC,-,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,0.69,TP53,7571720
+Metaplastic Breast Cancer,DEL,17,7577558,7577558.0,G,-,0.78,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577558,7577558.0,G,-,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577527,7577527.0,G,-,0.6,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577566,7577567.0,-,A,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577566,7577567.0,-,A,0.34,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577500,7577501.0,-,A,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579363,7579364.0,-,C,0.53,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578402,7578402.0,G,T,0.51,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7579536,7579536.0,C,A,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.41,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.68,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.15,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.62,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7574003,7574003.0,G,A,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.25,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.6,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578263,7578263.0,G,A,0.59,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.38,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.69,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.64,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578263,7578263.0,G,A,0.66,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574012,7574012.0,C,-,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577058,7577058.0,C,A,0.32,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578257,7578257.0,C,A,0.23,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,DEL,17,7579364,7579364.0,C,-,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579364,7579364.0,C,-,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579364,7579364.0,C,-,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7574030,7574030.0,G,-,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579458,7579459.0,-,TGCA,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578445,7578445.0,A,-,0.64,TP53,7571720
+Breast Mixed Ductal and Lobular Carcinoma,SNP,17,7578371,7578371.0,C,T,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579432,7579433.0,-,G,0.68,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578538,7578538.0,T,-,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578460,7578461.0,-,G,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579359,7579359.0,G,-,0.31,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579359,7579359.0,G,-,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579419,7579419.0,A,-,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578246,7578247.0,-,A,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,0.83,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,0.85,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577022,7577022.0,G,A,0.84,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7578278,7578279.0,-,A,0.25,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576863,7576863.0,A,-,0.12,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578429,7578429.0,C,-,0.72,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577526,7577526.0,A,G,0.55,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578416,7578419.0,CCTC,-,0.81,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579359,7579360.0,-,GA,0.61,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578431,7578431.0,G,A,0.73,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579383,7579383.0,T,-,0.25,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578218,7578218.0,T,-,0.63,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578213,7578214.0,AA,-,0.58,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579414,7579414.0,C,T,0.28,TP53,7571720
+"Breast Invasive Carcinoma, NOS",DEL,17,7578217,7578218.0,GT,-,0.78,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578239,7578239.0,C,A,0.44,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579343,7579351.0,TGCAAGAAG,-,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577027,7577027.0,G,-,0.4,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578382,7578382.0,G,C,0.49,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7579360,7579361.0,-,AA,0.86,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578491,7578491.0,C,-,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578547,7578547.0,G,-,0.8,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577514,7577515.0,-,T,0.65,TP53,7571720
+Breast Invasive Ductal Carcinoma,INS,17,7577525,7577526.0,-,A,0.35,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578253,7578253.0,C,A,0.86,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578253,7578253.0,C,A,0.48,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577031,7577031.0,T,-,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579356,7579358.0,GAC,-,0.46,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7576924,7576925.0,GT,-,0.52,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577061,7577064.0,CTTT,-,0.66,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579364,7579365.0,CC,-,0.69,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7579346,7579346.0,A,T,0.16,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578239,7578239.0,C,-,0.47,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579344,7579344.0,G,-,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579315,7579315.0,G,T,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7577531,7577531.0,G,-,0.32,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7578423,7578423.0,C,T,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7578408,7578408.0,C,-,0.22,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577100,7577100.0,T,A,0.82,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577073,7577073.0,G,A,0.18,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579409,7579410.0,AG,-,0.56,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579321,7579322.0,CA,-,0.43,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577509,7577509.0,C,A,0.74,TP53,7571720
+Breast Invasive Ductal Carcinoma,DUPLICATION,17,7576943,,,,,TP53,7571720
+Invasive Breast Carcinoma,INVERSION,17,7576827,,,,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,G,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,G,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577096,7577096.0,T,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578522,7578522.0,T,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577121,7577121.0,G,C,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7577121,7577121.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577096,7577096.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577096,7577096.0,T,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577095,7577095.0,G,T,0.5,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577095,7577095.0,G,T,0.3,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577548,7577548.0,C,A,0.26,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,G,0.24,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577566,7577566.0,T,G,0.29,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577096,7577096.0,T,A,0.54,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7577095,7577095.0,G,T,0.27,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579313,7579313.0,G,T,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578454,7578454.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579313,7579313.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579313,7579313.0,G,T,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578226,7578226.0,T,C,0.62,TP53,7571720
+"Breast Invasive Carcinoma, NOS",SNP,17,7579558,7579558.0,C,G,0.14,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579437,7579437.0,C,T,0.2,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579716,7579716.0,G,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579882,7579882.0,C,G,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7573959,7573982.0,CCCAGCCTGGGCATCCTTGAGTTC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7573973,7573973.0,C,A,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7578444,7578444.0,G,C,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579532,7579537.0,TGTTCA,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576872,7576872.0,C,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579413,7579413.0,G,T,,TP53,7571720
+Breast Invasive Ductal Carcinoma,DEL,17,7579417,7579437.0,GGAGGGGGCTGGTGCAGGGGC,-,,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7576896,7576896.0,T,C,,TP53,7571720
+Breast Invasive Lobular Carcinoma,SNP,17,7579714,7579714.0,C,T,0.44,TP53,7571720
+Breast Invasive Ductal Carcinoma,SNP,17,7579882,7579882.0,C,T,0.2,TP53,7571720
