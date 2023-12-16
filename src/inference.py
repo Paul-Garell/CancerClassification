@@ -1,6 +1,5 @@
 from seq import align
 
-# import Ryan function:
 input = ""
 output = align(input)
 # list of [Chromosome, Start Pos, End pos, Ref, Var, Gene name]
