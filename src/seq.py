@@ -19,8 +19,8 @@ def get_max(input):
     gene_ref = {
         "TP53": TP53Ref.TP53Ref,
         "GATA3": GATA3Ref.GATA3Ref,
-        "PIK3CA": PIK3CARef.PIK3CARef,
-        "CDH1": CDH1Ref.CDH1Ref,
+        # "PIK3CA": PIK3CARef.PIK3CARef,
+        # "CDH1": CDH1Ref.CDH1Ref,
     }
 
     for gene in gene_ref:

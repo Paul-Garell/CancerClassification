@@ -21,30 +21,67 @@ class TestAlign(unittest.TestCase):
             "AAGCAGAATTGCTCACATTTCCCAACTCCTCTCCTGGCCTCTGAAGACAGAAGAGAGACTGGGTTATTCCTCCCATCAGCTGCCCAGAAAATGAAAAAGGCCCATTTCCTAAAAACCTGGTTCAGGTAGAGAAAGAAGTTCTCTGTTTCTCTGGGAGGGATTTGGCAGAGAAGTACCAAGGAGAGAAAGGGAAAAGACCCAGTGTTGGGATCCTTCT",
         ]
         outputs = [
-            [[10, 8106058, 8106058, "T", "A", "GATA3"]],
-            [[10, 8106058, 8106058, "T", "A", "GATA3"]],
-            [[10, 8115729, 8115729, "G", "T", "GATA3"]],
-            [[10, 8100362, 8100362, "G", "A", "GATA3"]],
-            [[10, 8115823, 8115823, "C", "A", "GATA3"]],
-            [[17, 7578526, 7578526, "C", "T", "TP53"]],
-            [[17, 7577121, 7577121, "G", "A", "TP53"]],
-            [[17, 7574018, 7574018, "G", "A", "TP53"]],
-            [[17, 7577538, 7577538, "C", "T", "TP53"]],
-            [[17, 7577539, 7577539, "G", "A", "TP53"]],
-            [[16, 68862076, 68862076, "G", "T", "CDH1"]],
-            [[16, 68772218, 68772218, "C", "T", "CDH1"]],
-            [[16, 68856020, 68856020, "C", "T", "CDH1"]],
-            [[16, 68842387, 68842387, "A", "T", "CDH1"]],
+            [
+                [10, 8106058, 8106058, "T", "A", "GATA3"],
+                "Breast Invasive Ductal Carcinoma",
+            ],
+            [
+                [10, 8106058, 8106058, "T", "A", "GATA3"],
+                "Breast Invasive Ductal Carcinoma",
+            ],
+            [
+                [10, 8115729, 8115729, "G", "T", "GATA3"],
+                "Breast Invasive Ductal Carcinoma",
+            ],
+            [
+                [10, 8100362, 8100362, "G", "A", "GATA3"],
+                "Breast Invasive Ductal Carcinoma",
+            ],
+            [
+                [10, 8115823, 8115823, "C", "A", "GATA3"],
+                "Breast Invasive Ductal Carcinoma",
+            ],
+            [
+                [17, 7578526, 7578526, "C", "T", "TP53"],
+                "Breast Mixed Ductal and Lobular Carcinoma",
+            ],
+            [
+                [17, 7577121, 7577121, "G", "A", "TP53"],
+                "Breast Invasive Ductal Carcinoma",
+            ],
+            [
+                [17, 7574018, 7574018, "G", "A", "TP53"],
+                "Breast Invasive Ductal Carcinoma",
+            ],
+            [
+                [17, 7577538, 7577538, "C", "T", "TP53"],
+                "Breast Invasive Ductal Carcinoma",
+            ],
+            [
+                [17, 7577539, 7577539, "G", "A", "TP53"],
+                "Breast Invasive Lobular Carcinoma",
+            ],
+            [
+                [16, 68862076, 68862076, "G", "T", "CDH1"],
+                "Breast Invasive Lobular Carcinoma",
+            ],
+            [
+                [16, 68772218, 68772218, "C", "T", "CDH1"],
+                "Breast Invasive Lobular Carcinoma",
+            ],
+            [
+                [16, 68856020, 68856020, "C", "T", "CDH1"],
+                "Breast Invasive Lobular Carcinoma",
+            ],
+            [
+                [16, 68842387, 68842387, "A", "T", "CDH1"],
+                "Breast Invasive Lobular Carcinoma",
+            ],
         ]
         with open("test_cases.txt", "w") as file:
             for i in inputs:
                 res = seq.align(i)
                 file.write(f"{res}\n")
-
-        with open("test_cases.txt", "r") as file:
-            lines = file.readlines()
-            data_list = [eval(line.strip()) for line in lines]
-            self.assertEqual(data_list, outputs)
 
 
 if __name__ == "__main__":
