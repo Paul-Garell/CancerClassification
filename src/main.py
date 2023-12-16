@@ -19,8 +19,8 @@ np.set_printoptions(threshold=sys.maxsize) #numpy printing settings
 inSize = 20
 outSize = 5
 learning_rate = 1e-5
-batch_size = 16
-epochs = 50
+batch_size = 512
+epochs = 20
 
 ##gloabl variable data
 label_name_ref = []
@@ -77,7 +77,7 @@ class genCustDataset(Dataset):
 
         df = df.drop(inds_to_drop)
         # print(df)
-        df = df.drop(columns = ['Variant Type', 'Reference', 'Ref Start'])
+        df = df.drop(columns = ['Variant Type', 'Allele Freq (T)', 'Ref Start']) #'Reference',
         # df = df.drop(columns = ['Cancer Type Detailed', 'Variant Type', 'Reference', 'Ref Start'])
         # print(df)
         # print(df)
@@ -101,6 +101,7 @@ class genCustDataset(Dataset):
         mat = numberizeCol(mat, df.columns.get_loc('Var'))
 
         #Gene name numberization
+
         geneCol = df.columns.get_loc('Gene Name')
         for i, v in enumerate(mat): 
             curV= v[geneCol]
@@ -137,12 +138,13 @@ class genCustDataset(Dataset):
 def getDataloaders(data): 
     dSets = genCustDataset(data) 
     train_size = 0.8
-    test_size = 0.2
-    validation_size = 0.0
+    test_size = 0.1
+    validation_size = 0.1
+
     tr_dlo, te_dlo, va_dlo = torch.utils.data.random_split(dSets, [train_size, test_size, validation_size])
-    print(type(tr_dlo))
+    # print(type(tr_dlo))
 
-
+    
     tr_dload = torch.utils.data.DataLoader(tr_dlo, batch_size=batch_size, shuffle=True)
     te_dload= torch.utils.data.DataLoader(te_dlo, batch_size=100, shuffle=False)
     va_dload= torch.utils.data.DataLoader(te_dlo, batch_size=100, shuffle=False)
@@ -157,7 +159,7 @@ class NeuralNetwork(nn.Module):
         super().__init__()
         self.flatten = nn.Flatten()
         self.linear_relu_stack = nn.Sequential(
-            nn.Linear(7, 512),
+            nn.Linear(6, 512),
             nn.BatchNorm1d(512),
             nn.LeakyReLU(0.01),
             # nn.Sigmoid(),
@@ -225,8 +227,8 @@ def test_loop(te, model, loss_fn):
             # print(correct)
             # print(pred)
 
-            print(pred)
-            print(y)
+            # print(pred)
+            # print(y)
             size += len(y)
 
     test_loss /= num_batches
@@ -238,13 +240,15 @@ def test_loop(te, model, loss_fn):
 
 if __name__ == '__main__':
     data_path = 'data/'
-    paths = os.listdir(data_path)
-
+    # paths = os.listdir(data_path)
     
-
+    
+    paths = ['AllTP53.csv', 'AllGATA3.csv', 'AllCDH1.csv', 'AllPIK3CA.csv']
+    # print(paths)
     # paths = ['data/CDH1.csv', 'data/CDH1.csv', 'data/CDH1.csv', 'data/CDH1.csv']
+
     tr, te, va = getDataloaders(paths)
-    print(tr)
+    # print(tr)
 
     model = NeuralNetwork().to(device)
     # Initialize the loss function
@@ -252,12 +256,15 @@ if __name__ == '__main__':
 
     optim = torch.optim.SGD(model.parameters(), lr=learning_rate, momentum=0.97)
 
-    print(label_name_ref)
-    print(len(tr))
-    print(len(te))
+
+
+    # print(label_name_ref)
+    print(tr)
+    # print(len(te))
     loss_t = []
     corr_t = []
     loss_tr = []
+
     for iter in range (epochs):
         print("Iter: "+ str(iter))
         lossTr = train(tr, te, model, loss_fn, optim)
@@ -268,32 +275,37 @@ if __name__ == '__main__':
 
     print("Model wieghts")
 
+    #save model
+    path = 'CancerIdentifier.pth'
+    torch.save(model.state_dict(), path)
 
 
-    plt.plot(torch.arange(epochs), loss_t, '-c', label='Approximated Testing Loss')
-    plt.title("Loss")
-    plt.legend(loc='upper right')
-    plt.xlabel("Epochs")
-    plt.ylabel("Loss")
-    plt.savefig('Loss.png')
-    plt.clf()
+    # plt.plot(torch.arange(epochs), loss_t, '-c', label='Approximated Testing Loss')
+    # plt.title("Loss")
+    # plt.legend(loc='upper right')
+    # plt.xlabel("Epochs")
+    # plt.ylabel("Loss")
+    # # plt.savefig('Loss.png')
+    # # plt.clf()
     # plt.show()
 
-    plt.plot(torch.arange(epochs), corr_t, '-c', label='Approximated Testing Accuracy')
-    plt.title("Accuracy")
-    plt.legend(loc='upper right')
-    plt.xlabel("Epochs")
-    plt.ylabel("Accuracy")
-    plt.savefig('Acc.png')
-    plt.clf()
+    # plt.plot(torch.arange(epochs), corr_t, '-c', label='Approximated Testing Accuracy')
+    # plt.title("Accuracy")
+    # plt.legend(loc='upper right')
+    # plt.xlabel("Epochs")
+    # plt.ylabel("Accuracy")
+    # # plt.savefig('Acc.png')
+    # # plt.clf()
+    # plt.show()
 
-    plt.plot(torch.arange(epochs), loss_tr, '-c', label='Approximated Training Loss')
-    plt.title("Loss")
-    plt.legend(loc='upper right')
-    plt.xlabel("Epochs")
-    plt.ylabel("Loss")
-    plt.savefig('LosTraoining.png')
-    plt.clf()
+    # plt.plot(torch.arange(epochs), loss_tr, '-c', label='Approximated Training Loss')
+    # plt.title("Loss")
+    # plt.legend(loc='upper right')
+    # plt.xlabel("Epochs")
+    # plt.ylabel("Loss")
+    # # plt.savefig('LosTraoining.png')
+    # # plt.clf()
+    # plt.show()
 
 
 
