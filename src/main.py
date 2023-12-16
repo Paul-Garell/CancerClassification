@@ -20,7 +20,7 @@ inSize = 20
 outSize = 5
 learning_rate = 5e-4
 batch_size = 512
-epochs = 25
+epochs = 50
 
 ##gloabl variable data
 label_name_ref = []
@@ -171,21 +171,21 @@ class NeuralNetwork(nn.Module):
         super().__init__()
         self.flatten = nn.Flatten()
         self.linear_relu_stack = nn.Sequential(
-            nn.Linear(6, 1024),
-            nn.BatchNorm1d(1024),
-            nn.LeakyReLU(0.001),
+            nn.Linear(6, 512),
+            nn.BatchNorm1d(512),
+            nn.LeakyReLU(0.01),
             # nn.Sigmoid(),
-            nn.Linear(1024, 4192),
-            nn.BatchNorm1d(4192),
+            nn.Linear(512, 2048),
+            nn.BatchNorm1d(2048),
             nn.LeakyReLU(0.1),
-            nn.Linear(4192, 4192),
-            nn.BatchNorm1d(4192),
+            nn.Linear(2048, 2048),
+            nn.BatchNorm1d(2048),
             nn.LeakyReLU(0.1),
             # nn.Linear(8192, 8192),
             # nn.BatchNorm1d(8192),
             # nn.LeakyReLU(0.01),
             # nn.Sigmoid(),
-            nn.Linear(4192, len(label_name_ref)), #confirm the outsize is accurate on runtime 
+            nn.Linear(2048, len(label_name_ref)), #confirm the outsize is accurate on runtime 
             nn.Softmax(dim=1),
         )
 
@@ -230,6 +230,7 @@ def test_loop(te, model, loss_fn):
 
     with torch.no_grad():
         for X, y in te:
+            # print(X.__getitem__(0))
             pred = model(X)
             # print(X)
             # print(pred)
