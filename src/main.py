@@ -18,9 +18,9 @@ np.set_printoptions(threshold=sys.maxsize) #numpy printing settings
 #Set hyper params 
 inSize = 20
 outSize = 5
-learning_rate = 1e-5
+learning_rate = 5e-4
 batch_size = 512
-epochs = 20
+epochs = 25
 
 ##gloabl variable data
 label_name_ref = []
@@ -34,6 +34,14 @@ dictRef = {'A':1, 'C':2, 'G':3, 'T':4}
 #     else "cpu"
 # )
 device = "cpu" #coding CPU for now - should use cuda on HPC, but local mps is slow
+
+def drop_rows(df, label, nameToDrop):
+    inds_to_drop= []
+    for i, v in enumerate(df[label]):
+        if v == nameToDrop:
+            inds_to_drop.append(i)
+    return inds_to_drop
+
 
 
 def dropIndixes(df, col):
@@ -62,7 +70,9 @@ def numberizeCol(df, col):
 class genCustDataset(Dataset):
     def __init__(self, data_path):
         df = pd.DataFrame()
-        
+        label = "Cancer Type Detailed"
+
+
         for dPath in data_path:
             # print(dPath)
             df_cur = pd.read_csv('data/' + dPath)
@@ -74,6 +84,9 @@ class genCustDataset(Dataset):
         #Remove indices from 
         inds_to_drop.extend(dropIndixes(df, 'Ref'))
         inds_to_drop.extend(dropIndixes(df, 'Var'))
+        inds_to_drop.extend(drop_rows(df, label, 'Breast Mixed Ductal and Lobular Carcinoma'))
+        # inds_to_drop.extend(drop_rows(df, label, 'Breast'))
+        
 
         df = df.drop(inds_to_drop)
         # print(df)
@@ -83,7 +96,6 @@ class genCustDataset(Dataset):
         # print(df)
 
         #label preprocessing
-        label = "Cancer Type Detailed"
         data = df.loc[:, df.columns != label]
         labels = df[label].values
         for i, v in enumerate(labels): 
@@ -137,8 +149,8 @@ class genCustDataset(Dataset):
 # Also returning dataloaders, which are ideal to use internally within pytorch training
 def getDataloaders(data): 
     dSets = genCustDataset(data) 
-    train_size = 0.8
-    test_size = 0.1
+    train_size = 0.7
+    test_size = 0.2
     validation_size = 0.1
 
     tr_dlo, te_dlo, va_dlo = torch.utils.data.random_split(dSets, [train_size, test_size, validation_size])
@@ -159,18 +171,21 @@ class NeuralNetwork(nn.Module):
         super().__init__()
         self.flatten = nn.Flatten()
         self.linear_relu_stack = nn.Sequential(
-            nn.Linear(6, 512),
-            nn.BatchNorm1d(512),
-            nn.LeakyReLU(0.01),
+            nn.Linear(6, 1024),
+            nn.BatchNorm1d(1024),
+            nn.LeakyReLU(0.001),
             # nn.Sigmoid(),
-            nn.Linear(512, 4096),
-            nn.BatchNorm1d(4096),
-            nn.LeakyReLU(0.01),
-            # nn.Linear(8192, 16348),
-            # nn.BatchNorm1d(16348),
+            nn.Linear(1024, 4192),
+            nn.BatchNorm1d(4192),
+            nn.LeakyReLU(0.1),
+            nn.Linear(4192, 4192),
+            nn.BatchNorm1d(4192),
+            nn.LeakyReLU(0.1),
+            # nn.Linear(8192, 8192),
+            # nn.BatchNorm1d(8192),
             # nn.LeakyReLU(0.01),
             # nn.Sigmoid(),
-            nn.Linear(4096, len(label_name_ref)), #confirm the outsize is accurate on runtime 
+            nn.Linear(4192, len(label_name_ref)), #confirm the outsize is accurate on runtime 
             nn.Softmax(dim=1),
         )
 
@@ -253,8 +268,14 @@ if __name__ == '__main__':
     model = NeuralNetwork().to(device)
     # Initialize the loss function
     loss_fn = nn.CrossEntropyLoss()
+    # loss_fn = nn.HuberLoss()
 
-    optim = torch.optim.SGD(model.parameters(), lr=learning_rate, momentum=0.97)
+    # optim = torch.optim.SGD(model.parameters(), lr=learning_rate, momentum=0.9)
+    # optim = torch.optim.Adam(model.parameters(), lr=learning_rate)
+    optim = torch.optim.Adamax(model.parameters(), lr=learning_rate, betas=(0.99, 0.999))
+    # optim = torch.optim.Adadelta(model.parameters(), lr=learning_rate)
+    # optim = torch.optim.Adagrad(model.parameters())
+    # optim = torch.optim.ASGD(model.parameters())
 
 
 
@@ -278,33 +299,35 @@ if __name__ == '__main__':
     #save model
     path = 'CancerIdentifier.pth'
     torch.save(model.state_dict(), path)
+    print(label_name_ref)
 
+    loss, corr = test_loop(va, model, loss_fn)
 
-    # plt.plot(torch.arange(epochs), loss_t, '-c', label='Approximated Testing Loss')
-    # plt.title("Loss")
-    # plt.legend(loc='upper right')
-    # plt.xlabel("Epochs")
-    # plt.ylabel("Loss")
-    # # plt.savefig('Loss.png')
-    # # plt.clf()
+    plt.plot(torch.arange(epochs), loss_t, '-c', label='Approximated Testing Loss')
+    plt.title("Loss")
+    plt.legend(loc='upper right')
+    plt.xlabel("Epochs")
+    plt.ylabel("Loss")
+    plt.savefig('Loss.png')
+    plt.clf()
     # plt.show()
 
-    # plt.plot(torch.arange(epochs), corr_t, '-c', label='Approximated Testing Accuracy')
-    # plt.title("Accuracy")
-    # plt.legend(loc='upper right')
-    # plt.xlabel("Epochs")
-    # plt.ylabel("Accuracy")
-    # # plt.savefig('Acc.png')
-    # # plt.clf()
+    plt.plot(torch.arange(epochs), corr_t, '-c', label='Approximated Testing Accuracy')
+    plt.title("Accuracy")
+    plt.legend(loc='upper right')
+    plt.xlabel("Epochs")
+    plt.ylabel("Accuracy")
+    plt.savefig('Acc.png')
+    plt.clf()
     # plt.show()
 
-    # plt.plot(torch.arange(epochs), loss_tr, '-c', label='Approximated Training Loss')
-    # plt.title("Loss")
-    # plt.legend(loc='upper right')
-    # plt.xlabel("Epochs")
-    # plt.ylabel("Loss")
-    # # plt.savefig('LosTraoining.png')
-    # # plt.clf()
+    plt.plot(torch.arange(epochs), loss_tr, '-c', label='Approximated Training Loss')
+    plt.title("Loss")
+    plt.legend(loc='upper right')
+    plt.xlabel("Epochs")
+    plt.ylabel("Loss")
+    plt.savefig('LosTraoining.png')
+    plt.clf()
     # plt.show()
 
 
