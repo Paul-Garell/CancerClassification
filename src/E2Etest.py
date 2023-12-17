@@ -36,8 +36,8 @@ def runTests(seqs, labs):
 
 
 if __name__ == "__main__":
-    path = "E2E_test_cases.txt"
-    path = "E2E_test_cases_small.txt"
+    path = "E2E_test_cases.txt" # full test suite
+    # path = "E2E_test_cases_small.txt" #small test suite
     seq, labs = readTests(path)
     cor, tot = runTests(seq, labs)
     print(cor/tot)
