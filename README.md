@@ -6,7 +6,7 @@ Pedro Vera Perez (ppv7)
 Ryan Mistretta (rhm255)
 
 
-##Background
+## Background
 
 This repository contains a breast cancer type classification algorithm and model. Our function takes as input a sequence of DNA pairs. Internally this sequence is aligned over a large reference genome (~400,000 pairs). Once we find the most likely alignment, a series of single nucleotide polymorphisms are generated. With the series of SNPs, our trained model performs a series of inferences to determine the classification of cancer. 
 
@@ -16,7 +16,7 @@ We provide both a trained model as well as our training script. The training scr
 
 Since our training process is stochastic, you may not always achieve the same results. However, we do expect to see consistent results in the 70%-78% range. A larger dataset should aid in reducing accuracy flexibility.
 
-##Runbook
+## Runbook
 
 To install the required packages please run: 
 
