@@ -127,7 +127,8 @@ class genCustDataset(Dataset):
         
         #make custum dataset
         # print(mat)
-        mat = mat/(mat.sum(axis=0))
+        # mat = mat/(mat.sum(axis=0))
+        # print(mat)
         # print(labels)
         # print(type(labels))
         labels_onehot = np.zeros((labels.size, len(label_name_ref)))
@@ -185,7 +186,7 @@ class NeuralNetwork(nn.Module):
             # nn.BatchNorm1d(8192),
             # nn.LeakyReLU(0.01),
             # nn.Sigmoid(),
-            nn.Linear(2048, len(label_name_ref)), #confirm the outsize is accurate on runtime 
+            nn.Linear(2048, 11), #confirm the outsize is accurate on runtime 
             nn.Softmax(dim=1),
         )
 
@@ -213,19 +214,13 @@ def train(tr, te, model, loss_fn, optim):
         optim.zero_grad()       
         loss.backward()
         optim.step()
-        
-        # print(i)
-        # if i % 100 == 0: #UPDATE
-        #     loss, current = loss.item(), (i + 1) * len(data)
-        #     print(f"loss: {loss:>5f}  [{current:>2d}/{len(tr):>2d}]")
     # preds = model(tr)
     return avLoss/len(tr)
 
-#UDPATE 
+
 def test_loop(te, model, loss_fn):
     model.eval()
     size = 0
-    num_batches = len(te)
     test_loss, correct = 0, 0
 
     with torch.no_grad():
@@ -243,11 +238,9 @@ def test_loop(te, model, loss_fn):
             # print(correct)
             # print(pred)
 
-            # print(pred)
-            # print(y)
             size += len(y)
 
-    test_loss /= num_batches
+    test_loss /= len(te)
     correct /= size
     print(f"Test Error: \n Accuracy: {(100*correct):>0.5f}%, Avg loss: {test_loss:>8f} \n")
     return test_loss, correct
@@ -257,36 +250,43 @@ def test_loop(te, model, loss_fn):
 if __name__ == '__main__':
     data_path = 'data/'
     # paths = os.listdir(data_path)
-    
-    
     paths = ['AllTP53.csv', 'AllGATA3.csv', 'AllCDH1.csv', 'AllPIK3CA.csv']
-    # print(paths)
-    # paths = ['data/CDH1.csv', 'data/CDH1.csv', 'data/CDH1.csv', 'data/CDH1.csv']
 
     tr, te, va = getDataloaders(paths)
-    # print(tr)
 
-    model = NeuralNetwork().to(device)
-    # Initialize the loss function
     loss_fn = nn.CrossEntropyLoss()
     # loss_fn = nn.HuberLoss()
 
-    # optim = torch.optim.SGD(model.parameters(), lr=learning_rate, momentum=0.9)
+    learning_rate = 5e-4
+    batch_size = 2048
+    epochs = 30
+
+    #HPO
+    B = [128, 512, 2048]
+    lr = [1e-3, 5e-4, 1e-4,]
+    betaV = [(0.5, 0.99), (0.9, 0.99), (0.99, 0.999)]
+    # momentum
+
+    # model = NeuralNetwork().to(device)
+    
+    #Best optimizer
+    # optim = torch.optim.SGD(model.parameters(), lr=learning_rate, momentum=0.2)
     # optim = torch.optim.Adam(model.parameters(), lr=learning_rate)
-    optim = torch.optim.Adamax(model.parameters(), lr=learning_rate, betas=(0.99, 0.999))
+    # optim = torch.optim.Adamax(model.parameters(), lr=learning_rate, betas=(0.99, 0.999))
     # optim = torch.optim.Adadelta(model.parameters(), lr=learning_rate)
     # optim = torch.optim.Adagrad(model.parameters())
     # optim = torch.optim.ASGD(model.parameters())
 
 
 
-    # print(label_name_ref)
-    print(tr)
-    # print(len(te))
+
+    model = NeuralNetwork().to(device)
+    optim = torch.optim.Adamax(model.parameters(), lr=learning_rate, betas=(0.99, 0.999))
+
     loss_t = []
     corr_t = []
     loss_tr = []
-
+    print(gene_name_ref)
     for iter in range (epochs):
         print("Iter: "+ str(iter))
         lossTr = train(tr, te, model, loss_fn, optim)
@@ -302,52 +302,89 @@ if __name__ == '__main__':
     torch.save(model.state_dict(), path)
     print(label_name_ref)
 
-    loss, corr = test_loop(va, model, loss_fn)
+    valoss, vacorr = test_loop(va, model, loss_fn)
 
     plt.plot(torch.arange(epochs), loss_t, '-c', label='Approximated Testing Loss')
-    plt.title("Loss")
+    plt.title("Loss Testing")
     plt.legend(loc='upper right')
     plt.xlabel("Epochs")
     plt.ylabel("Loss")
-    plt.savefig('Loss.png')
+    plt.savefig('Lossout.png')
     plt.clf()
     # plt.show()
 
     plt.plot(torch.arange(epochs), corr_t, '-c', label='Approximated Testing Accuracy')
-    plt.title("Accuracy")
-    plt.legend(loc='upper right')
+    plt.title("Accuracy Validation")
+    plt.legend(loc='lower right')
     plt.xlabel("Epochs")
     plt.ylabel("Accuracy")
-    plt.savefig('Acc.png')
+    plt.savefig('Accout.png')
     plt.clf()
     # plt.show()
 
     plt.plot(torch.arange(epochs), loss_tr, '-c', label='Approximated Training Loss')
-    plt.title("Loss")
+    plt.title("Loss Training")
     plt.legend(loc='upper right')
     plt.xlabel("Epochs")
     plt.ylabel("Loss")
-    plt.savefig('LosTraoining.png')
+    plt.savefig('LosTraoiningout.png')
     plt.clf()
     # plt.show()
 
 
 
+    #HPO- grid searching
+    # for learning_rate in lr:
+    #     for batch_size in B:
+    #         for beta in betaV:
+    #             model = NeuralNetwork().to(device)
+    #             optim = torch.optim.Adamax(model.parameters(), lr=learning_rate, betas=beta)
 
+    #             loss_t = []
+    #             corr_t = []
+    #             loss_tr = []
 
+    #             for iter in range (epochs):
+    #                 print("Iter: "+ str(iter))
+    #                 lossTr = train(tr, te, model, loss_fn, optim)
+    #                 loss, corr = test_loop(te, model, loss_fn)
+    #                 loss_t.append(loss)
+    #                 corr_t.append(corr)
+    #                 loss_tr.append(lossTr.item())
 
+    #             print("Model wieghts")
 
+    #             #save model
+    #             path = 'CancerIdentifier.pth'
+    #             torch.save(model.state_dict(), path)
+    #             print(label_name_ref)
 
+    #             loss, corr = test_loop(va, model, loss_fn)
 
-    # for x, y in va:
-    #     preds = model(x)
+    #             plt.plot(torch.arange(epochs), loss_t, '-c', label='Approximated Testing Loss')
+    #             plt.title("Loss with hyper params: " + "batch="+str(batch_size)+", learning rate="+str(learning_rate)+", beta values="+str(beta))
+    #             plt.legend(loc='upper right')
+    #             plt.xlabel("Epochs")
+    #             plt.ylabel("Loss")
+    #             plt.savefig('Loss'+str(batch_size)+str(learning_rate)+str(beta)+'out.png')
+    #             plt.clf()
+    #             # plt.show()
 
+    #             plt.plot(torch.arange(epochs), corr_t, '-c', label='Approximated Testing Accuracy')
+    #             plt.title("Accuracy with hyper params: " + "batch="+str(batch_size)+", learning rate="+str(learning_rate)+", beta values="+str(beta))
+    #             plt.legend(loc='lower right')
+    #             plt.xlabel("Epochs")
+    #             plt.ylabel("Accuracy")
+    #             plt.savefig('Acc'+str(batch_size)+str(learning_rate)+str(beta)+'out.png')
+    #             plt.clf()
+    #             # plt.show()
 
-#Evaluate model
-
-#Make a model 
-
-
-#Train the mdoel 
-
+    #             plt.plot(torch.arange(epochs), loss_tr, '-c', label='Approximated Training Loss')
+    #             plt.title("Loss with hyper params: " + "batch="+str(batch_size)+", learning rate="+str(learning_rate)+", beta values="+str(beta))
+    #             plt.legend(loc='upper right')
+    #             plt.xlabel("Epochs")
+    #             plt.ylabel("Loss")
+    #             plt.savefig('LosTraoining'+str(batch_size)+str(learning_rate)+str(beta)+'out.png')
+    #             plt.clf()
+    #             # plt.show()
 

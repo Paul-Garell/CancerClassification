@@ -1,3 +1,7 @@
+###Ignore this file, none of this code is used#### 
+##Playground file for testig pre processing steps##
+
+
 import pandas as pd
 
 df_CDH1 = pd.read_csv('data/CDH1.csv')
@@ -29,3 +33,6 @@ df2 = df_CDH1[toSelect]
 # st = len(df_CDH1["Reference"][0])
 
 print(df2)
+
+
+
